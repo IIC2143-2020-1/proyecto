@@ -33,15 +33,15 @@ La página de [_Issues_](https://github.com/iic2143-2020-1/proyecto/issues) se u
 
 Cada _issue_ [puede ser etiquetada](https://help.github.com/en/github/managing-your-work-on-github/applying-labels-to-issues-and-pull-requests) para mantener el orden y facilitar la búsqueda de problemas similares. Una _issue_ puede tener múltiples etiquetas. Aunque el equipo docente irá etiquetando según corresponda, también puedes adelantarte y clasificar tu pregunta en las categorías que correspondan para acelerar la respuesta a tu pregunta:
 
-* [duplicada](https://github.com/iic2143-2020-1/proyecto/labels/duplicada): pregunta repetida, se hará referencia a la pregunta original
-* [heroku](https://github.com/iic2143-2020-1/proyecto/labels/heroku): Preguntas relacionadas con Heroku
-* [importante](https://github.com/iic2143-2020-1/proyecto/labels/importante): issues que **todos** los grupos deben leer
-* [misc](https://github.com/iic2143-2020-1/proyecto/labels/misc): para preguntas sobre temas que no parezcan pertenecer a ninguna de las categorías anteriores.
-* [OS](https://github.com/iic2143-2020-1/proyecto/labels/OS): para preguntas sobre el sistema operativo (máquinas virtuales, particiones, etc...).
-* [postgres](https://github.com/iic2143-2020-1/proyecto/labels/postgres): para preguntas sobre la base de datos.
-* [proyecto](https://github.com/iic2143-2020-1/proyecto/labels/proyecto): sobre el enunciado o situación relacionada a alguna entrega de proyecto
-* [rails](https://github.com/iic2143-2020-1/proyecto/labels/rails): Preguntas relacionadas con Rails
-* [ayua](https://github.com/iic2143-2020-1/proyecto/labels/ayua): para preguntar sobre errores o bugs en código antes de caer en la desesperación (pero luego de haber buscado **apropiadamente** en Internet...)
+* **[duplicada](https://github.com/iic2143-2020-1/proyecto/labels/duplicada)**: pregunta repetida, se hará referencia a la pregunta original
+* **[heroku](https://github.com/iic2143-2020-1/proyecto/labels/heroku)**: Preguntas relacionadas con Heroku
+* **[importante](https://github.com/iic2143-2020-1/proyecto/labels/importante)**: issues que **todos** los grupos deben leer
+* **[misc](https://github.com/iic2143-2020-1/proyecto/labels/misc)**: para preguntas sobre temas que no parezcan pertenecer a ninguna de las categorías anteriores.
+* **[OS](https://github.com/iic2143-2020-1/proyecto/labels/OS)**: para preguntas sobre el sistema operativo (máquinas virtuales, particiones, etc...).
+* **[postgres](https://github.com/iic2143-2020-1/proyecto/labels/postgres)**: para preguntas sobre la base de datos.
+* **[proyecto](https://github.com/iic2143-2020-1/proyecto/labels/proyecto)**: sobre el enunciado o situación relacionada a alguna entrega de proyecto
+* **[rails](https://github.com/iic2143-2020-1/proyecto/labels/rails)**: Preguntas relacionadas con Rails
+* **[ayua](https://github.com/iic2143-2020-1/proyecto/labels/ayua)**: para preguntar sobre errores o bugs en código antes de caer en la desesperación (pero luego de haber buscado **apropiadamente** en Internet...)
 
 ### Procedimiento
 
