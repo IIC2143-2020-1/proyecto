@@ -24,7 +24,7 @@ En este repositorio podrás encontrar:
 Nombre               | Email           | Github
 -------------------- | ---------------- | ----------------
 Daniel Leal | dlleal@uc.cl | [@daleal](https://github.com/daleal)
-Rodrigo Alonso | nabenitez@uc.cl | [@rialonsom](https://github.com/rialonsom)
+Rodrigo Alonso | rialonso@uc.cl | [@rialonsom](https://github.com/rialonsom)
 Nicolás Benítez | nabenitez@uc.cl | [@nabenitez](https://github.com/nabenitez)
 Vicente Castro | vvcastro@uc.cl | [@vvcastro](https://github.com/vvcastro)
 Rafael Fernández | rfernandez6@uc.cl | [@rafafdz](https://github.com/rafafdz)
