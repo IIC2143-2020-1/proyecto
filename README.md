@@ -23,7 +23,17 @@ En este repositorio podrás encontrar:
 ## Ayudantes
 Nombre               | Email           | Github
 -------------------- | ---------------- | ----------------
-Daniel Leal | dlleal@uc.cl | daleal
+Daniel Leal | dlleal@uc.cl | [@daleal](https://github.com/daleal)
+Rodrigo Alonso | nabenitez@uc.cl | [@rialonsom](https://github.com/rialonsom)
+Nicolás Benítez | nabenitez@uc.cl | [@nabenitez](https://github.com/nabenitez)
+Vicente Castro | vvcastro@uc.cl | [@vvcastro](https://github.com/vvcastro)
+Rafael Fernández | rfernandez6@uc.cl | [@rafafdz](https://github.com/rafafdz)
+Daniel Galloso | dagalloso@uc.cl | [@dagalloso](https://github.com/dagalloso)
+Eleuterio Ramírez | elramirez@uc.cl | [@elramirezv123](https://github.com/elramirezv123)
+Moisés Retamal | meretamal@uc.cl | [@meretamal](https://github.com/meretamal)
+Valentina Rojas | varojasm@uc.cl | [@valerojasm](https://github.com/valerojasm)
+Javier Ruiz | jirui2@uc.cl | [@Jiruiz2](https://github.com/Jiruiz2)
+Florencia Valdés | ftvaldes1@uc.cl | [@FloValdes](https://github.com/FloValdes)
 
 ## Foro
 
