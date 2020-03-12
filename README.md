@@ -32,7 +32,7 @@ Daniel Galloso | dagalloso@uc.cl | [@dagalloso](https://github.com/dagalloso)
 Eleuterio Ramírez | elramirez@uc.cl | [@elramirezv123](https://github.com/elramirezv123)
 Moisés Retamal | meretamal@uc.cl | [@meretamal](https://github.com/meretamal)
 Valentina Rojas | varojasm@uc.cl | [@valerojasm](https://github.com/valerojasm)
-Javier Ruiz | jirui2@uc.cl | [@Jiruiz2](https://github.com/Jiruiz2)
+Javier Ruiz | jiruiz2@uc.cl | [@Jiruiz2](https://github.com/Jiruiz2)
 Florencia Valdés | ftvaldes1@uc.cl | [@FloValdes](https://github.com/FloValdes)
 
 ## Foro
