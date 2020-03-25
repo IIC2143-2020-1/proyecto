@@ -1,0 +1,24 @@
+*** COMIENZO PASAJEROS EN CUARENTENA ***
+Luisa Menchaca Ayala: 49. Turks and Caicos Islands. 2
+Eugenia Natalia Quintanilla Guillen: 52. Namibia. 2
+Lic. Estela Piña: 27. Colombia. 1
+*** FIN PASAJEROS EN CUARENTENA ***
+*** COMIENZO HABITANTES EN CUARENTENA ***
+Esmeralda Homero Soria Rincón: 79. Sector 5
+*** FIN HABITANTES EN CUARENTENA ***
+*** COMIENZO PERSONAS EN CUARENTENA ***
+Esmeralda Homero Soria Rincón: 79. Habitante
+Luisa Menchaca Ayala: 49. Pasajero
+Eugenia Natalia Quintanilla Guillen: 52. Pasajero
+Lic. Estela Piña: 27. Pasajero
+*** FIN PERSONAS EN CUARENTENA ***
+*** COMIENZO PERSONAS EN EDAD DE RIESGO ***
+Esmeralda Homero Soria Rincón: 79. Habitante
+*** FIN PERSONAS EN EDAD DE RIESGO ***
+*** COMIENZO PASAJEROS DE PAISES INFECTADOS ***
+*** FIN PASAJEROS DE PAISES INFECTADOS ***
+*** COMIENZO PASAJEROS DE VUELOS INFECTADOS ***
+Luisa Menchaca Ayala: 49. 24
+Eugenia Natalia Quintanilla Guillen: 52. 4
+Lic. Estela Piña: 27. 18
+*** FIN PASAJEROS DE VUELOS INFECTADOS ***

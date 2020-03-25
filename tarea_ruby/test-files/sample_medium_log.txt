@@ -1,0 +1,64 @@
+*** COMIENZO PASAJEROS EN CUARENTENA ***
+Luz Tomás Botello Tórrez: 40. Armenia - Portugal - Myanmar. 2
+Cecilia Noelia Arriaga: 34. Armenia - Brazil - Sint Maarten (Dutch part). 2
+Carlos Nevárez Matos: 48. Portugal - Andorra. 3
+Gerónimo Teresa Durán Aguayo: 74. Portugal - Réunion - Myanmar. 3
+Cornelio Emilia Cervantes Elizondo: 93. Brazil - Portugal. 3
+Emilio Jurado: 15. Sint Maarten (Dutch part) - Brazil. 3
+Ing. Rubén Armas: 67. Andorra - Angola - Sint Maarten (Dutch part). 3
+Gabino Leonel Salinas: 24. Brazil - Réunion. 2
+Wendolin Alonzo: 24. Andorra - Brazil - Myanmar. 2
+Sr(a). Eduardo Tórrez: 75. Armenia - Australia - Réunion. 2
+Adalberto María Cristina Roybal: 13. Andorra - Portugal - Australia. 2
+Daniela Velázquez Guevara: 80. Myanmar - Australia. 2
+*** FIN PASAJEROS EN CUARENTENA ***
+*** COMIENZO HABITANTES EN CUARENTENA ***
+Ofelia Armenta: 80. Sector 30
+Yeni Nava Roque: 10. Sector 20
+*** FIN HABITANTES EN CUARENTENA ***
+*** COMIENZO PERSONAS EN CUARENTENA ***
+Ofelia Armenta: 80. Habitante
+Yeni Nava Roque: 10. Habitante
+Luz Tomás Botello Tórrez: 40. Pasajero
+Cecilia Noelia Arriaga: 34. Pasajero
+Carlos Nevárez Matos: 48. Pasajero
+Gerónimo Teresa Durán Aguayo: 74. Pasajero
+Cornelio Emilia Cervantes Elizondo: 93. Pasajero
+Emilio Jurado: 15. Pasajero
+Ing. Rubén Armas: 67. Pasajero
+Gabino Leonel Salinas: 24. Pasajero
+Wendolin Alonzo: 24. Pasajero
+Sr(a). Eduardo Tórrez: 75. Pasajero
+Adalberto María Cristina Roybal: 13. Pasajero
+Daniela Velázquez Guevara: 80. Pasajero
+*** FIN PERSONAS EN CUARENTENA ***
+*** COMIENZO PERSONAS EN EDAD DE RIESGO ***
+Ofelia Armenta: 80. Habitante
+Gerónimo Teresa Durán Aguayo: 74. Pasajero
+Cornelio Emilia Cervantes Elizondo: 93. Pasajero
+Ing. Rubén Armas: 67. Pasajero
+Sr(a). Eduardo Tórrez: 75. Pasajero
+Daniela Velázquez Guevara: 80. Pasajero
+*** FIN PERSONAS EN EDAD DE RIESGO ***
+*** COMIENZO PASAJEROS DE PAISES INFECTADOS ***
+Luz Tomás Botello Tórrez: 40. Portugal
+Carlos Nevárez Matos: 48. Portugal - Andorra
+Gerónimo Teresa Durán Aguayo: 74. Portugal - Réunion
+Cornelio Emilia Cervantes Elizondo: 93. Portugal
+Ing. Rubén Armas: 67. Andorra
+Gabino Leonel Salinas: 24. Réunion
+Wendolin Alonzo: 24. Andorra
+Sr(a). Eduardo Tórrez: 75. Réunion
+Adalberto María Cristina Roybal: 13. Andorra - Portugal
+*** FIN PASAJEROS DE PAISES INFECTADOS ***
+*** COMIENZO PASAJEROS DE VUELOS INFECTADOS ***
+Cecilia Noelia Arriaga: 34. 32
+Carlos Nevárez Matos: 48. 21
+Gerónimo Teresa Durán Aguayo: 74. 9
+Cornelio Emilia Cervantes Elizondo: 93. 21 - 7
+Emilio Jurado: 15. 18
+Ing. Rubén Armas: 67. 26
+Gabino Leonel Salinas: 24. 36
+Wendolin Alonzo: 24. 21
+Adalberto María Cristina Roybal: 13. 18
+*** FIN PASAJEROS DE VUELOS INFECTADOS ***

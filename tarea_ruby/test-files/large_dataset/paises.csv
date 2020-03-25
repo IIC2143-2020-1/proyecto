@@ -1,0 +1,101 @@
+id,nombre,hay_infectados
+0,Angola,true
+1,Croatia,false
+2,Saint Pierre and Miquelon,false
+3,Niger,false
+4,Bermuda,true
+5,Suriname,false
+6,Uganda,true
+7,Thailand,false
+8,Hong Kong,false
+9,Cuba,true
+10,Somalia,false
+11,Uzbekistan,false
+12,Bulgaria,true
+13,Mexico,false
+14,Nauru,true
+15,Lao People's Democratic Republic,false
+16,Sint Maarten (Dutch part),false
+17,Libya,false
+18,Gabon,true
+19,Korea Democratic People's Republic of,false
+20,Zambia,false
+21,Peru,true
+22,French Southern Territories,false
+23,Côte d'Ivoire,false
+24,Ukraine,false
+25,Saint Kitts and Nevis,false
+26,Paraguay,true
+27,Cambodia,true
+28,Tunisia,true
+29,Egypt,true
+30,Philippines,false
+31,Haiti,false
+32,Jordan,true
+33,Japan,false
+34,Monaco,false
+35,Bahamas,false
+36,Isle of Man,false
+37,Russian Federation,false
+38,Korea Republic of,true
+39,French Guiana,true
+40,South Africa,false
+41,Bangladesh,false
+42,Madagascar,false
+43,Germany,false
+44,Greenland,false
+45,Montenegro,true
+46,Micronesia Federated States of,false
+47,Afghanistan,false
+48,Sudan,false
+49,Slovakia,false
+50,Switzerland,false
+51,Mongolia,true
+52,Guadeloupe,false
+53,Algeria,false
+54,Burkina Faso,false
+55,Finland,false
+56,Yemen,false
+57,Mali,true
+58,Palestine State of,false
+59,Nepal,false
+60,United States,true
+61,Grenada,true
+62,Guam,false
+63,Brunei Darussalam,true
+64,Christmas Island,false
+65,Trinidad and Tobago,false
+66,Benin,true
+67,Gambia,true
+68,Aruba,false
+69,Czechia,true
+70,Antigua and Barbuda,false
+71,Portugal,false
+72,Uruguay,true
+73,Hungary,false
+74,Sweden,true
+75,Guatemala,false
+76,Timor-Leste,true
+77,Denmark,true
+78,Australia,false
+79,Tonga,true
+80,Cocos (Keeling) Islands,false
+81,United Arab Emirates,true
+82,Saint Helena Ascension and Tristan da Cunha,false
+83,Azerbaijan,false
+84,Cyprus,false
+85,Belgium,false
+86,Turks and Caicos Islands,false
+87,Curaçao,false
+88,Montserrat,true
+89,Iceland,false
+90,Luxembourg,false
+91,Liberia,false
+92,Western Sahara,false
+93,Central African Republic,false
+94,Rwanda,false
+95,Morocco,true
+96,Niue,false
+97,Jamaica,false
+98,Puerto Rico,true
+99,Mayotte,true

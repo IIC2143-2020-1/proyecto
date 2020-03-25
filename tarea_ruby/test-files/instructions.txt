@@ -1,0 +1,6 @@
+pasajeros_en_cuarentena
+habitantes_en_cuarentena
+personas_en_cuarentena
+personas_en_edad_de_riesgo
+pasajeros_de_paises_infectados
+pasajeros_de_vuelos_infectados
