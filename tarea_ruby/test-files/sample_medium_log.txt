@@ -11,6 +11,7 @@ Wendolin Alonzo: 24. Andorra - Brazil - Myanmar. 2
 Sr(a). Eduardo Tórrez: 75. Armenia - Australia - Réunion. 2
 Adalberto María Cristina Roybal: 13. Andorra - Portugal - Australia. 2
 Daniela Velázquez Guevara: 80. Myanmar - Australia. 2
+Lic. Jaime Estévez: 50. Brazil - Curaçao. 2
 *** FIN PASAJEROS EN CUARENTENA ***
 *** COMIENZO HABITANTES EN CUARENTENA ***
 Ofelia Armenta: 80. Sector 30
@@ -31,6 +32,7 @@ Wendolin Alonzo: 24. Pasajero
 Sr(a). Eduardo Tórrez: 75. Pasajero
 Adalberto María Cristina Roybal: 13. Pasajero
 Daniela Velázquez Guevara: 80. Pasajero
+Lic. Jaime Estévez: 50. Pasajero
 *** FIN PERSONAS EN CUARENTENA ***
 *** COMIENZO PERSONAS EN EDAD DE RIESGO ***
 Ofelia Armenta: 80. Habitante
