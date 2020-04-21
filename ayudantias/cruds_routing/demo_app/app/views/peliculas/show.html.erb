@@ -1,0 +1,20 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Título:</strong>
+  <%= @pelicula.titulo %>
+</p>
+
+<p>
+  <strong>Ano:</strong>
+  <%= @pelicula.ano %>
+</p>
+
+<p>
+  <strong>Director:</strong>
+  <%= @pelicula.director %>
+</p>
+
+<%= link_to 'Editar Película', peliculas_edit_path(@pelicula.id) %>
+<%= link_to 'Eliminar Película', pelicula_path(@pelicula.id), method: :delete, alert: 'Estás seguro?' %>
+<%= link_to 'Lista Películas', peliculas_path %>

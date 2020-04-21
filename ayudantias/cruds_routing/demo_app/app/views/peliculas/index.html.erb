@@ -1,0 +1,29 @@
+<p id="notice"><%= notice %></p>
+
+<h1>Peliculas</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Título</th>
+      <th>Ano</th>
+      <th>Director</th>
+      <th colspan="3"> Acciones </th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @peliculas.each do |pelicula| %>
+      <tr>
+        <td><%= pelicula.titulo %></td>
+        <td><%= pelicula.ano %></td>
+        <td><%= pelicula.director %></td>
+        <td><%= link_to 'Ver', pelicula_path(pelicula.id) %>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to 'Crear Pelicula', peliculas_new_path %>
