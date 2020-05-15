@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  titulo: MyString
+  ano: 1
+  director: MyString
+
+two:
+  titulo: MyString
+  ano: 1
+  director: MyString

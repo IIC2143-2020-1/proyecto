@@ -1,0 +1,36 @@
+<div class="form-box">
+  <h2 class="title is-2">Nueva Pelicula</h2>
+  <%= form_with(model: @pelicula, method: :post) do |form| %>
+    <div class="field">
+      <%= form.label :titulo, class: 'label' %>
+      <%= form.text_field :titulo, class: 'input' %>
+    </div>
+
+    <div class="field">
+      <%= form.label :ano, class: 'label' %>
+      <%= form.number_field :ano, class: 'input' %>
+    </div>
+
+    <div class="field">
+      <%= form.label :director, class: 'label' %>
+      <%= form.text_field :director, class: 'input' %>
+    </div>
+
+    <div class="field">
+      <%= form.label :photo_url, class: 'label' %>
+      <%= form.text_field :photo_url, class: 'input' %>
+    </div>
+
+    <div class="field">
+      <%= form.label :descripcion, class: 'label' %>
+      <%= form.text_area :descripcion, class: 'input' %>
+    </div>
+
+    <div class="actions">
+      <%= form.submit 'Enviar', class: 'button is-link' %>
+      <%= link_to 'Volver', peliculas_path, class: 'button' %> 
+    </div>
+  <% end %>
+</div>
+
+

@@ -1,0 +1,27 @@
+<p id="notice"><%= notice %></p>
+
+<h2 class="title is-2">Peliculas</h2>
+
+<%= link_to 'Crear Pelicula', peliculas_new_path %>
+
+<% @peliculas.each do |pelicula| %>
+  <div class="box">
+    <article class="media">
+      <div class="media-left">
+        <figure class="image is-64x64">
+          <img src="<%= pelicula.photo_url %>" alt="Image">
+        </figure>
+      </div>
+      <div class="media-content">
+        <div class="content">
+          <p>
+            <strong><%= pelicula.titulo %></strong> <small><%= pelicula.ano %></small>
+            <br>
+            <%= pelicula.descripcion %>
+          </p>
+          <%= link_to 'Ver más', pelicula_path(pelicula.id), class: 'button' %>
+        </div>
+      </div>
+    </article>
+  </div>
+<% end %>

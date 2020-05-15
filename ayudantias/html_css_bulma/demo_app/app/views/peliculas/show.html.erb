@@ -1,0 +1,32 @@
+<p id="notice"><%= notice %></p>
+
+<br>
+
+<div class="columns">
+  <div class="column is-one-quarter">
+    <div class="image">
+      <img src="<%= @pelicula.photo_url %>">
+    </div>
+  </div>
+  <div class="column">
+    <h2 class="title is-2"><%= @pelicula.titulo %></h2>
+    <p>
+      <strong>Año:</strong>
+      <%= @pelicula.ano %>
+    </p>
+    <p>
+      <strong>Director:</strong>
+      <%= @pelicula.director %>
+    </p>
+    <p>
+      <strong>Descripción:</strong>
+      <%= @pelicula.descripcion %>
+    </p>
+    <br>
+    <%= link_to 'Editar Película', peliculas_edit_path(@pelicula.id), class:'button is-warning' %>
+    <%= link_to 'Eliminar Película', pelicula_path(@pelicula.id), method: :delete, alert: 'Estás seguro?', class: 'button is-danger' %>
+    <%= link_to 'Lista Películas', peliculas_path, class: 'button' %>
+  </div>
+</div>
+
+<h3 class="title is-3">Comentarios:</h3>

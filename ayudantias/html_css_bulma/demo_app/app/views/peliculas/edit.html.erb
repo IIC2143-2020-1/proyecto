@@ -1,0 +1,34 @@
+<h1>Editar Pelicula</h1>
+
+<%= form_with(model: @pelicula, url: pelicula_path(@pelicula.id), method: :patch) do |form| %>
+  <div class="field">
+    <%= form.label :titulo %>
+    <%= form.text_field :titulo %>
+  </div>
+
+  <div class="field">
+    <%= form.label :ano %>
+    <%= form.number_field :ano %>
+  </div>
+
+  <div class="field">
+    <%= form.label :director %>
+    <%= form.text_field :director %>
+  </div>
+
+  <div class="field">
+    <%= form.label :photo_url %>
+    <%= form.text_field :photo_url %>
+  </div>
+
+  <div class="field">
+    <%= form.label :descripcion %>
+    <%= form.text_area :descripcion %>
+  </div>
+
+  <div class="actions">
+    <%= form.submit %>
+  </div>
+<% end %>
+
+<%= link_to 'Back', peliculas_path %> 
