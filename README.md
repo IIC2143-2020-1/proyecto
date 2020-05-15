@@ -41,7 +41,7 @@ La página de [_Issues_](https://github.com/iic2143-2020-1/proyecto/issues) se u
 
 ### Etiquetas
 
-Cada _issue_ [puede ser etiquetada](https://help.github.com/en/github/managing-your-work-on-github/applying-labels-to-issues-and-pull-requests) para mantener el orden y facilitar la búsqueda de problemas similares. Una _issue_ puede tener múltiples etiquetas. Aunque el equipo docente irá etiquetando según corresponda, también puedes adelantarte y clasificar tu pregunta en las categorías que correspondan para acelerar la respuesta a tu pregunta:
+Cada _issue_ [puede ser etiquetada](https://help.github.com/en/github/managing-your-work-on-github/applying-labels-to-issues-and-pull-requests) para mantener el orden y facilitar la búsqueda de problemas similares. Una _issue_ puede tener múltiples etiquetas. El equipo docente irá etiquetando según corresponda según las siguientes categorías:
 
 * **[duplicada](https://github.com/iic2143-2020-1/proyecto/labels/duplicada)**: pregunta repetida, se hará referencia a la pregunta original
 * **[heroku](https://github.com/iic2143-2020-1/proyecto/labels/heroku)**: Preguntas relacionadas con Heroku
