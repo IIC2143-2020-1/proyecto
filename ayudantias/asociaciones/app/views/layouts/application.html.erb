@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Example</title>
+    <%= csrf_meta_tags %>
+    <%= csp_meta_tag %>
+
+    <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+  </head>
+
+  <body>
+  <section class="hero is-primary is-medium">
+    <!-- Hero head: will stick at the top -->
+    <div class="hero-head">
+      <nav class="navbar">
+        <div class="container">
+          <div class="navbar-brand">
+            <a class="nav-logo" href="/">
+              <img src="<%= image_path('asd.png') %>" alt="logo" width="200" height="200">
+            </a>
+            <span class="navbar-burger burger" data-target="navbarMenuHeroA">
+              <span></span>
+              <span></span>
+              <span></span>
+            </span>
+          </div>
+          <div id="navbarMenuHeroA" class="navbar-menu">
+            <div class="navbar-end">
+              <%= link_to 'Artists', artists_path, :class => "navbar-item" %>
+              <%= link_to 'Playlists', playlists_path, :class => "navbar-item" %>
+              <%= link_to 'Albums', albums_path, :class => "navbar-item" %>
+              <% if user_signed_in? %>
+                <% if !current_user.artist %>
+                  <%= link_to 'Be an artist', new_artist_path, :class => "navbar-item" %>
+                <% end %>
+              <% else %>
+                <%= link_to 'Sign up', new_user_registration_path, :class => "navbar-item" %>
+                <%= link_to 'Log in', new_user_session_path, :class => "navbar-item" %>
+              <% end %>
+            </div>
+          </div>
+        </div>
+      </nav>
+    </div>
+
+    <div class="hero-body">
+      <div class="container has-text-centered">
+        <h1 class="title">
+          Ayudantía 4
+        </h1>
+        <h2 class="subtitle">
+          Asociaciones
+        </h2>
+      </div>
+    </div>
+  </section>
+
+  <%= yield %>
+  </body>
+</html>

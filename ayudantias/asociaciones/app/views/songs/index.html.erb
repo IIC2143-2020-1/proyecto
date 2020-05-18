@@ -1,0 +1,27 @@
+<p id="notice"><%= notice %></p>
+<div class="container main-con">
+<center>
+<h1 class="title">Songs</h1>
+<table class="table is-striped is-narrow is-hoverable">
+  <thead>
+  <tr>
+    <th>Title</th>
+    <th>Album</th>
+  </tr>
+  </thead>
+  <tbody>
+    <% @songs.each do |song| %>
+      <tr>
+        <td><%= song.title %></td>
+        <td><%= song.album.title %></td>
+        <td><%= link_to 'Show', song %></td>
+        <td><%= link_to 'Edit', edit_song_path(song) %></td>
+        <td><%= link_to 'Destroy', song, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+<br>
+<%= link_to 'New Song', new_song_path %>
+</center>
+</div>

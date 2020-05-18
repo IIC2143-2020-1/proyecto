@@ -1,0 +1,38 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Title:</strong>
+  <%= @album.title %>
+</p>
+
+<p>
+  <strong>Artist:</strong>
+  <%= @album.artist_id %>
+</p>
+<br>
+<p>Songs</p>
+<table>
+  <thead>
+    <tr>
+      <th>Title</th>
+      <th colspan="3"></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @album.songs.each do |song| %>
+      <tr>
+        <td><%= song.title %></td>
+        <td><%= link_to 'Show', artist_album_song_path(@album, @album.artist, song) %></td>
+        <td><%= link_to 'Edit', edit_artist_album_song_path(@album, @album.artist, song) %></td>
+        <td><%= link_to 'Destroy', artist_album_song_path(@album, @album.artist, song), method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<% if current_user.artist %>
+  <%= link_to 'New song', new_artist_album_song_path(@album.artist_id, @album) %> |
+<% end %>
+<%= link_to 'Edit', edit_album_path(@album) %> |
+<%= link_to 'Back', albums_path %>

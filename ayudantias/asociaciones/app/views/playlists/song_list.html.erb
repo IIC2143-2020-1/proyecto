@@ -1,0 +1,25 @@
+<p id="notice"><%= notice %></p>
+<div class="container main-con">
+<center>
+<h1 class="title">Songs to add</h1>
+<table class="table is-striped is-narrow is-hoverable">
+  <thead>
+  <tr>
+    <th>Title</th>
+    <th>Album</th>
+    <th>Artist</th>
+  </tr>
+  </thead>
+  <tbody>
+    <% @songs.each do |song| %>
+      <tr>
+        <td><%= song.title %></td>
+        <td><%= song.album.title %></td>
+        <td><%= song.album.artist.band %></td>
+        <td><%= link_to 'Add to playlist', add_playlist_song_path(@playlist, song) %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+</center>
+</div>

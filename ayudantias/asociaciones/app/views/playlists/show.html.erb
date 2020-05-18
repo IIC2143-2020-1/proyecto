@@ -1,0 +1,39 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Title:</strong>
+  <%= @playlist.title %>
+</p>
+
+<p>
+  <strong>User:</strong>
+  <%= @playlist.user_id %>
+</p>
+
+<div class="container main-con">
+<center>
+<h1 class="title">Songs</h1>
+<table class="table is-striped is-narrow is-hoverable">
+  <thead>
+  <tr>
+    <th>Title</th>
+    <th>Album</th>
+  </tr>
+  </thead>
+  <tbody>
+    <% @playlist.songs.each do |song| %>
+      <tr>
+        <td><%= song.title %></td>
+        <td><%= song.album.title %></td>
+        <td><%= link_to 'Delete from playlist', playlist_song_path(@playlist, song), method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+<br>
+</center>
+</div>
+
+<%= link_to 'Add Song', playlist_song_list_path(@playlist) %>
+<%= link_to 'Edit', edit_playlist_path(@playlist) %> |
+<%= link_to 'Back', playlists_path %>

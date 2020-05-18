@@ -1,0 +1,22 @@
+<p id="notice"><%= notice %></p>
+<div class="container main-con">
+<center>
+<h1 class="title">Artists</h1>
+<table class="table is-striped is-narrow is-hoverable">
+  <thead>
+  <tr>
+    <th>Band</th>
+    <th>Profile</th>
+  </tr>
+  </thead>
+  <tbody>
+    <% @artists.each do |artist| %>
+      <tr>
+        <td><%= artist.band %></td>
+        <td><%= link_to 'User profile', artist %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+</center>
+</div>
