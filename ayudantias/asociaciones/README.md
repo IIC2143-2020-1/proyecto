@@ -1,4 +1,5 @@
-# Ayudantía 3: Asociaciones
+# Ayudantía Asociaciones de Rails
+
 **IIC2143-2020-1. Ayudante: Valentina Rojas**
 
 Vamos a hacer una guía paso a paso de lo que nos faltó en la ayudantía de asociaciones. Recordar que tenemos las siguientes relaciones creadas:
