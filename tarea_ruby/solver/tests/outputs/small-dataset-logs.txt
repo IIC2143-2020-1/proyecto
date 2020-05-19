@@ -1,0 +1,30 @@
+*** COMIENZO PERSONAS EN EDAD DE RIESGO ***
+Jos Trinidad Abrego: 84. Pasajero
+*** FIN PERSONAS EN EDAD DE RIESGO ***
+*** COMIENZO PASAJEROS EN CUARENTENA ***
+Antonia Citlali Reyes Bétancourt: 18. Zambia. 1
+Patricio Trinidad González Jáquez: 48. Zambia. 2
+Jos Trinidad Abrego: 84. Zambia. 2
+Alicia Ángel Lugo Riojas: 14. Zambia. 1
+*** FIN PASAJEROS EN CUARENTENA ***
+*** COMIENZO HABITANTES EN CUARENTENA ***
+Guadalupe Téllez Almaraz: 47. Sector 5
+*** FIN HABITANTES EN CUARENTENA ***
+*** COMIENZO PASAJEROS DE VUELOS INFECTADOS ***
+Antonia Citlali Reyes Bétancourt: 18. 17
+Patricio Trinidad González Jáquez: 48. 18
+Jos Trinidad Abrego: 84. 8
+*** FIN PASAJEROS DE VUELOS INFECTADOS ***
+*** COMIENZO PERSONAS EN CUARENTENA ***
+Guadalupe Téllez Almaraz: 47. Habitante
+Antonia Citlali Reyes Bétancourt: 18. Pasajero
+Patricio Trinidad González Jáquez: 48. Pasajero
+Jos Trinidad Abrego: 84. Pasajero
+Alicia Ángel Lugo Riojas: 14. Pasajero
+*** FIN PERSONAS EN CUARENTENA ***
+*** COMIENZO PASAJEROS DE PAISES INFECTADOS ***
+Antonia Citlali Reyes Bétancourt: 18. Zambia
+Patricio Trinidad González Jáquez: 48. Zambia
+Jos Trinidad Abrego: 84. Zambia
+Alicia Ángel Lugo Riojas: 14. Zambia
+*** FIN PASAJEROS DE PAISES INFECTADOS ***

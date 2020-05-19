@@ -1,0 +1,568 @@
+*** COMIENZO PERSONAS EN EDAD DE RIESGO ***
+Mtro. Isabel Vela: 95. Habitante
+Rocío Mesa López: 69. Habitante
+Ing. Elias Reynoso: 95. Habitante
+José Carlos Eric Villalobos: 74. Habitante
+Dr. Lilia Berríos: 91. Habitante
+Cristobal Tovar Castillo: 75. Habitante
+Bernardo Alejandro Guajardo Lebrón: 73. Habitante
+José Luis Gerónimo Cervántez Ibarra: 67. Habitante
+Elvira Abel Tamayo Arriaga: 88. Habitante
+Beatriz Antonia Montalvo: 88. Habitante
+Cecilia Aida Bernal: 76. Habitante
+Adán Armando de Jesús Burgos: 83. Habitante
+Gerardo Ortiz Cisneros: 70. Habitante
+Dr. Mónica Beltrán: 73. Habitante
+Lic. Rodolfo Corrales: 78. Habitante
+Roberto Feliciano: 75. Habitante
+Diana Arenas Suárez: 87. Habitante
+Adela Jesús Acevedo: 80. Habitante
+Hugo Eugenio Arce: 79. Habitante
+Ing. Marisela Ledesma: 65. Habitante
+Sr(a). Sessa Calvillo: 69. Habitante
+Ing. Eric Portillo: 94. Habitante
+Yeni Leticia Salinas Peralta: 67. Habitante
+Sr(a). Bianca Altamirano: 91. Habitante
+Berta Brito Guillen: 75. Habitante
+Cristobal Juan Carlos Magaña de la O: 72. Habitante
+Gabino Peña: 85. Habitante
+Jacinto Olivo Alvarado: 89. Habitante
+María del Carmen Niño: 74. Habitante
+José Carlos Raúl Salgado Batista: 76. Habitante
+Dr. Alma Navarro: 78. Habitante
+Helena Reséndez Dávila: 81. Habitante
+Jos Bueno: 90. Habitante
+Estela Guzmán Pedraza: 69. Habitante
+Caridad Camarillo Guardado: 75. Habitante
+Oswaldo Caridad Quintero del Río: 79. Habitante
+Vanesa David Trejo Calvillo: 69. Habitante
+Carlota María Teresa Posada Salinas: 69. Pasajero
+Daniela Calderón: 95. Pasajero
+Armando Nelly Correa Carrión: 70. Pasajero
+Ilse Wendolin Heredia: 85. Pasajero
+Rosa Gloria Santiago Zúñiga: 79. Pasajero
+Caridad Jesús Escobar: 75. Pasajero
+Sr(a). Susana Nieves: 87. Pasajero
+Raquel Arguello: 82. Pasajero
+Abel Valadez: 82. Pasajero
+Pilar Gil: 84. Pasajero
+Óliver Avilés: 84. Pasajero
+Amelia Correa: 86. Pasajero
+Dr. María Eugenia Gollum: 75. Pasajero
+Alfonso Carrión Cantú: 93. Pasajero
+Clemente Orta: 93. Pasajero
+Gabriela Magdalena Reynoso Montez: 77. Pasajero
+Juan Tania Jiménez Olivares: 79. Pasajero
+Violeta Pedro Rojo: 77. Pasajero
+José Eduardo Bonilla: 77. Pasajero
+Sessa Escobar Garibay: 85. Pasajero
+David Rentería: 65. Pasajero
+Aurora Daniel Lugo Armendáriz: 88. Pasajero
+Mtro. Isaac Rascón: 76. Pasajero
+Barbara Guzmán Montoya: 90. Pasajero
+Ing. Abel Galván: 79. Pasajero
+Dr. Maximiliano Ortiz: 71. Pasajero
+Esperanza Arevalo: 74. Pasajero
+Oswaldo Jerónimo Beltrán Roque: 89. Pasajero
+Dr. Ramiro Yáñez: 69. Pasajero
+Bernabé Carrasco Padrón: 79. Pasajero
+Dr. Úrsula Serrato: 81. Pasajero
+Perla Ramón Nazario: 85. Pasajero
+Carmen Blanca Viera Bañuelos: 68. Pasajero
+Norma Elvira Rosario: 66. Pasajero
+Esparta Alonzo Nieto: 74. Pasajero
+Dr. Victoria Velásquez: 87. Pasajero
+Mario Ferrer Ortega: 95. Pasajero
+Fidel Alta  Gracia Ibarra Solano: 72. Pasajero
+Lic. Esparta Salazar: 76. Pasajero
+*** FIN PERSONAS EN EDAD DE RIESGO ***
+*** COMIENZO PASAJEROS EN CUARENTENA ***
+Rodrigo Raquel Alvarado: 48. Niger - Nigeria - Vanuatu - Madagascar - Switzerland - New Caledonia - Luxembourg - Benin - Tuvalu - Austria - French Polynesia - Afghanistan - Faroe Islands - Czechia - Malaysia - Svalbard and Jan Mayen - Taiwan Province of China - Saudi Arabia - Honduras - Hong Kong - Brazil - Saint Martin (French part) - Turks and Caicos Islands - Malta - Indonesia - Belgium - Chad - Timor-Leste. 29
+Salvador Raquel Corral Canales: 59. Botswana - Brazil - Bhutan - Montserrat - China - Saudi Arabia - Korea Democratic People's Republic of - Gibraltar - Russian Federation - Greece - Marshall Islands - Hong Kong - Panama - Afghanistan - Suriname - Saint Vincent and the Grenadines - Comoros - Kenya - Togo - Kazakhstan - French Guiana - Portugal - Malaysia - Sri Lanka - Pakistan - Canada - Egypt - Libya - Kyrgyzstan - Niue - Madagascar. 29
+Carlota María Teresa Posada Salinas: 69. North Macedonia - Saint Helena Ascension and Tristan da Cunha - Switzerland - Uganda - Luxembourg - Niue - Tonga - South Georgia and the South Sandwich Islands - Bhutan - Sudan - Togo - Madagascar - Kyrgyzstan - Vanuatu - Saudi Arabia - San Marino - United Kingdom - Montserrat - Turks and Caicos Islands - Heard Island and McDonald Islands - Kazakhstan - Andorra - Chad - Rwanda - Georgia - Korea Democratic People's Republic of - Faroe Islands - Kenya - Nigeria - Nauru - Timor-Leste. 27
+Daniela Calderón: 95. Cayman Islands - Antigua and Barbuda - Sri Lanka - French Polynesia - Aruba - Saint Helena Ascension and Tristan da Cunha - Venezuela Bolivarian Republic of - United Kingdom - Turks and Caicos Islands - Portugal - Azerbaijan - Taiwan Province of China - Saudi Arabia - Niger - Afghanistan - South Georgia and the South Sandwich Islands - Luxembourg - Nigeria - Brazil - Rwanda - Kuwait - Svalbard and Jan Mayen - Belize - Serbia - Norway - Brunei Darussalam - Czechia. 27
+Armando Nelly Correa Carrión: 70. Gibraltar - Nigeria - Turkmenistan - China - North Macedonia - Botswana - Montserrat - Nauru - Brunei Darussalam - Egypt - United Kingdom - Azerbaijan - Cayman Islands - Kenya - Saudi Arabia - Trinidad and Tobago - Suriname - Christmas Island - Saint Martin (French part) - Micronesia Federated States of - Honduras - Aruba - Niger - Lao People's Democratic Republic - Norway - Croatia - South Georgia and the South Sandwich Islands - Moldova Republic of - Czechia - Tuvalu - Canada - Jordan. 25
+Eugenia Báez: 58. French Guiana - Heard Island and McDonald Islands - Malta - Croatia - Brazil - Cambodia - Portugal - French Polynesia - Korea Democratic People's Republic of - Saint Martin (French part) - Belize - Russian Federation - Netherlands - Brunei Darussalam - Moldova Republic of - Tuvalu - Vanuatu - Saint Helena Ascension and Tristan da Cunha - New Caledonia - Aruba - Sri Lanka - Saint Vincent and the Grenadines - Serbia - Norway - North Macedonia - Austria - Burkina Faso - Malaysia - Marshall Islands - Saudi Arabia - Slovakia. 25
+Jos Amelia Aponte: 59. Uganda - Korea Republic of - San Marino - Andorra - Liechtenstein - Serbia - Antigua and Barbuda - Saint Vincent and the Grenadines - South Georgia and the South Sandwich Islands - Lao People's Democratic Republic - Niue - Canada - Tuvalu - Rwanda - Madagascar - Niger - Marshall Islands - Chad - Kenya - Portugal - French Guiana - Netherlands - Timor-Leste - Sri Lanka - Moldova Republic of - Saint Martin (French part) - Benin. 24
+Ilse Wendolin Heredia: 85. Timor-Leste - Venezuela Bolivarian Republic of - Taiwan Province of China - Saint Helena Ascension and Tristan da Cunha - Liechtenstein - Sri Lanka - Heard Island and McDonald Islands - Greece - Madagascar - Libya - United Kingdom - South Georgia and the South Sandwich Islands - French Polynesia - Faroe Islands - Norway - Tuvalu - Aruba - Gibraltar - Georgia - Holy See (Vatican City State) - Malaysia - Korea Republic of - Niue - Nigeria - Kyrgyzstan - Sudan - Monaco - Slovakia. 24
+Rosa Gloria Santiago Zúñiga: 79. Malta - Madagascar - Holy See (Vatican City State) - Libya - Niger - Liechtenstein - Lao People's Democratic Republic - Ukraine - Sudan - Azerbaijan - Korea Republic of - Kuwait - Brunei Darussalam - Bulgaria - Egypt - Kenya - Belgium - Turkmenistan - Trinidad and Tobago - Saudi Arabia - Russian Federation - Faroe Islands - Switzerland - Turks and Caicos Islands - Kazakhstan - Gibraltar - Kyrgyzstan. 24
+Caridad Jesús Escobar: 75. Tokelau - Aruba - Brunei Darussalam - Afghanistan - Saint Helena Ascension and Tristan da Cunha - Botswana - Heard Island and McDonald Islands - Monaco - Andorra - Niger - Turkmenistan - Christmas Island - Niue - Indonesia - Uganda - Malta - Belize - Faroe Islands - Tuvalu - Austria - Honduras - Tonga - Pakistan - Greece - Saudi Arabia - Switzerland - Saint Vincent and the Grenadines - Czechia - Central African Republic - Egypt - French Polynesia - Svalbard and Jan Mayen - Kenya. 26
+Clara Salgado: 41. Brunei Darussalam - Pakistan - Saint Martin (French part) - North Macedonia - Switzerland - Honduras - Taiwan Province of China - Nigeria - Norway - Madagascar - Jordan - Sri Lanka - Benin - Malaysia - Botswana - Haiti - Tonga - Egypt - Saint Helena Ascension and Tristan da Cunha - Cambodia - San Marino - Monaco - Gibraltar - Russian Federation - Heard Island and McDonald Islands - Svalbard and Jan Mayen - Saint Vincent and the Grenadines - Central African Republic - Hong Kong - Congo - Moldova Republic of - Aruba - Comoros. 30
+Rosa Mauricio Sanches Miranda: 54. Belize - Afghanistan - Serbia - Rwanda - Jordan - Brunei Darussalam - San Marino - Madagascar - Faroe Islands - Hong Kong - Kazakhstan - Syrian Arab Republic - Nauru - Niue - Chad - Saudi Arabia - Monaco - Canada - Antigua and Barbuda - Russian Federation - Switzerland - Liechtenstein - Cambodia - Holy See (Vatican City State) - Benin - Vanuatu - Tuvalu - Sri Lanka - Andorra - Turkmenistan - New Caledonia - Christmas Island - Greece. 26
+Susana Tomás Urrutia Arroyo: 45. Togo - Croatia - Sudan - Uganda - Montserrat - Saudi Arabia - Netherlands - Russian Federation - Kuwait - French Guiana - Suriname - French Polynesia - Azerbaijan - Bhutan - San Marino - United Kingdom - Nauru - Heard Island and McDonald Islands - Vanuatu - Central African Republic - Malta - Marshall Islands - Czechia - Malaysia - Egypt - Gibraltar - Bulgaria. 28
+Sr(a). Susana Nieves: 87. Rwanda - French Polynesia - Ukraine - Niue - Holy See (Vatican City State) - Heard Island and McDonald Islands - Faroe Islands - Botswana - Micronesia Federated States of - Saint Vincent and the Grenadines - Saint Helena Ascension and Tristan da Cunha - Aruba - Venezuela Bolivarian Republic of - Togo - Timor-Leste - Malaysia - Portugal - Russian Federation - Korea Republic of - French Guiana - Lao People's Democratic Republic - Egypt - Tonga - Malta - Slovakia - Bhutan - Saudi Arabia - Suriname - Azerbaijan - Gibraltar - Nigeria - Central African Republic - South Georgia and the South Sandwich Islands. 27
+Dr. Zacarías Bueno: 45. Georgia - Luxembourg - Egypt - Serbia - South Georgia and the South Sandwich Islands - Moldova Republic of - Syrian Arab Republic - Libya - Brunei Darussalam - New Caledonia - Gibraltar - Micronesia Federated States of - Uganda - Bhutan - Austria - Panama - Benin - Netherlands - Azerbaijan - Kuwait - Suriname - North Macedonia - Cameroon - Norway - Slovakia - Nauru. 25
+Daniela Ruiz Zelaya: 13. Madagascar - Togo - French Polynesia - Congo - Switzerland - Kyrgyzstan - Saint Helena Ascension and Tristan da Cunha - Luxembourg - Kazakhstan - Monaco - Central African Republic - Belgium - Indonesia - Christmas Island - Tokelau - Syrian Arab Republic - Burkina Faso - Haiti - Saint Martin (French part) - United Kingdom - Tuvalu - Taiwan Province of China - Comoros - Suriname - Brazil - French Guiana - South Georgia and the South Sandwich Islands - Honduras - New Caledonia - Hong Kong - Malaysia - Portugal. 25
+Raquel Arguello: 82. Andorra - Liechtenstein - Togo - Bulgaria - Hong Kong - Vanuatu - Netherlands - Kuwait - Tokelau - Austria - Cambodia - Luxembourg - Cameroon - Svalbard and Jan Mayen - Monaco - Benin - Afghanistan - Lao People's Democratic Republic - Cayman Islands - Brunei Darussalam - Azerbaijan - Ukraine - Canada - Saudi Arabia - Micronesia Federated States of - Chad - Christmas Island - Georgia - United Kingdom - Niger - Turkmenistan - Norway - Timor-Leste. 27
+Mtro. Perla Longoria: 28. Kazakhstan - Azerbaijan - Kuwait - Tonga - Montserrat - Faroe Islands - Aruba - Honduras - Cayman Islands - Kenya - Chad - North Macedonia - Czechia - Antigua and Barbuda - Suriname - Afghanistan - Saudi Arabia - Panama - Sri Lanka - Cameroon - Croatia - Monaco - Niger - Greece - Tokelau - Korea Republic of - Congo - Rwanda - Belize - South Georgia and the South Sandwich Islands - Ukraine. 24
+Augusto Barela: 26. Chad - Suriname - Cambodia - Cayman Islands - Canada - Sudan - Aruba - Brazil - Monaco - United Kingdom - Kazakhstan - Georgia - Lao People's Democratic Republic - Norway - Greece - Bulgaria - Kenya - Kuwait - Faroe Islands - Nauru - Panama - Andorra - Malaysia - Marshall Islands - Montserrat - Serbia. 26
+Abel Valadez: 82. Tokelau - Suriname - Nauru - San Marino - Heard Island and McDonald Islands - Holy See (Vatican City State) - Uganda - Hong Kong - Russian Federation - Aruba - Ukraine - Monaco - Indonesia - Belize - Bhutan - Georgia - Svalbard and Jan Mayen - Austria - Saudi Arabia - French Guiana - Haiti - Congo - Bulgaria - Brazil - Moldova Republic of - Czechia. 30
+Pilar Gil: 84. Georgia - Tuvalu - Micronesia Federated States of - Taiwan Province of China - Marshall Islands - Sudan - Antigua and Barbuda - Brazil - Kyrgyzstan - Belgium - Saint Vincent and the Grenadines - Cambodia - Bhutan - Lao People's Democratic Republic - San Marino - Cayman Islands - Sri Lanka - Turks and Caicos Islands - North Macedonia - Cameroon - Saint Martin (French part) - Greece - Trinidad and Tobago - Saudi Arabia - Libya - Suriname - Belize. 27
+Rufino Nancy Domínguez: 61. Montserrat - Hong Kong - Egypt - Benin - Pakistan - New Caledonia - Malaysia - Russian Federation - Rwanda - Antigua and Barbuda - Andorra - Tokelau - Micronesia Federated States of - Nigeria - Venezuela Bolivarian Republic of - Saint Martin (French part) - Suriname - Sri Lanka - Kenya - Saint Vincent and the Grenadines - Turkmenistan - Tuvalu - Serbia - Botswana - Cambodia - Luxembourg - Congo - Burkina Faso - Gibraltar - Heard Island and McDonald Islands. 29
+Óliver Avilés: 84. Malaysia - Moldova Republic of - Canada - Belize - Saudi Arabia - Togo - Nauru - Christmas Island - Andorra - Georgia - Slovakia - Haiti - Kyrgyzstan - United Kingdom - Turkmenistan - Syrian Arab Republic - Suriname - Timor-Leste - Uganda - Antigua and Barbuda - Korea Democratic People's Republic of - Svalbard and Jan Mayen - Aruba - Niger - China - Nigeria - Brazil. 28
+Lorena Gabriela Valle: 25. Greece - Panama - Brunei Darussalam - Kazakhstan - Slovakia - Saint Martin (French part) - Lao People's Democratic Republic - Andorra - Moldova Republic of - Nigeria - Malaysia - Botswana - Antigua and Barbuda - Tonga - South Georgia and the South Sandwich Islands - Niue - Chad - Benin - Niger - Sudan - Georgia - Hong Kong - Switzerland - Heard Island and McDonald Islands - Netherlands - Honduras - Nauru - Madagascar. 28
+Rocío Bravo: 33. Trinidad and Tobago - Saint Vincent and the Grenadines - San Marino - Kyrgyzstan - Sri Lanka - Russian Federation - Togo - Suriname - Belize - Moldova Republic of - Andorra - Switzerland - Gibraltar - Monaco - Malta - Central African Republic - Canada - Kazakhstan - Ukraine - Cameroon - Botswana - Syrian Arab Republic - Svalbard and Jan Mayen - Turks and Caicos Islands - Czechia - Benin - Heard Island and McDonald Islands - Malaysia - Nigeria - Norway - Venezuela Bolivarian Republic of - Tonga. 24
+Horacio Sisneros Villalobos: 15. Saint Helena Ascension and Tristan da Cunha - Trinidad and Tobago - Turks and Caicos Islands - San Marino - United Kingdom - Luxembourg - Canada - Saint Martin (French part) - Korea Democratic People's Republic of - Liechtenstein - Aruba - Cameroon - Kazakhstan - Botswana - Montserrat - Afghanistan - Niger - Burkina Faso - Lao People's Democratic Republic - Nauru - Portugal - French Polynesia - Brazil - Kyrgyzstan - Benin - French Guiana - Cambodia - Uganda - Honduras - Georgia - Svalbard and Jan Mayen - Norway. 30
+Amelia Correa: 86. New Caledonia - Egypt - Bulgaria - Malta - French Polynesia - Cameroon - Luxembourg - San Marino - Trinidad and Tobago - Botswana - Monaco - Heard Island and McDonald Islands - Benin - Nigeria - Kuwait - Turkmenistan - Togo - Azerbaijan - United Kingdom - Honduras - Christmas Island - Uganda - Belize - Saint Helena Ascension and Tristan da Cunha - Hong Kong - Holy See (Vatican City State). 24
+Dr. María Eugenia Gollum: 75. Christmas Island - Turks and Caicos Islands - Congo - Indonesia - Turkmenistan - Suriname - Saint Martin (French part) - Bhutan - Monaco - Central African Republic - Sudan - Luxembourg - Belgium - Netherlands - Pakistan - Syrian Arab Republic - Cameroon - Chad - Sri Lanka - Brunei Darussalam - San Marino - Uganda - China - Nigeria - Haiti - French Guiana - Ukraine - Nauru - Heard Island and McDonald Islands. 26
+Lic. Raquel Merino: 11. Faroe Islands - Portugal - Cambodia - Egypt - Afghanistan - Sri Lanka - Korea Republic of - Monaco - Haiti - Bhutan - Venezuela Bolivarian Republic of - Moldova Republic of - New Caledonia - Indonesia - Comoros - Trinidad and Tobago - Canada - Central African Republic - Heard Island and McDonald Islands - Uganda - Kyrgyzstan - Saudi Arabia - Niger - Azerbaijan - Saint Helena Ascension and Tristan da Cunha - Benin - French Guiana - Malaysia - Korea Democratic People's Republic of - Saint Martin (French part) - North Macedonia - Turks and Caicos Islands. 25
+Alvaro Nancy Apodaca Carrillo: 58. Korea Republic of - New Caledonia - Comoros - Marshall Islands - Benin - French Guiana - Lao People's Democratic Republic - Croatia - Canada - Bulgaria - Slovakia - Trinidad and Tobago - Bhutan - Saudi Arabia - Switzerland - San Marino - Suriname - Kuwait - Luxembourg - Chad - Togo - Russian Federation - Madagascar - Belize - Montserrat. 29
+Lorenzo Leticia Laureano: 64. Haiti - Egypt - Lao People's Democratic Republic - Luxembourg - Saint Vincent and the Grenadines - China - Czechia - Liechtenstein - Norway - Sudan - Nauru - Marshall Islands - French Guiana - Faroe Islands - Vanuatu - Andorra - Christmas Island - Holy See (Vatican City State) - Cambodia - Botswana - South Georgia and the South Sandwich Islands - Malaysia - Portugal - Antigua and Barbuda - Montserrat - Trinidad and Tobago - Uganda - Serbia - Saint Helena Ascension and Tristan da Cunha - Netherlands - Austria - Pakistan - Timor-Leste. 25
+Alfonso Carrión Cantú: 93. Trinidad and Tobago - Togo - Timor-Leste - Korea Republic of - French Guiana - Luxembourg - Azerbaijan - Honduras - Sri Lanka - Greece - New Caledonia - Uganda - Venezuela Bolivarian Republic of - Vanuatu - Indonesia - Georgia - Kuwait - Czechia - Tonga - Lao People's Democratic Republic - Serbia - Niue - Taiwan Province of China - Kenya - Holy See (Vatican City State) - Belize - Rwanda - Niger - Saint Martin (French part) - Switzerland. 30
+Clemente Orta: 93. Heard Island and McDonald Islands - Russian Federation - San Marino - Tuvalu - Faroe Islands - Egypt - Haiti - Ukraine - Liechtenstein - Cameroon - Benin - French Polynesia - Saint Vincent and the Grenadines - Lao People's Democratic Republic - Azerbaijan - Venezuela Bolivarian Republic of - Gibraltar - Malta - Niue - Pakistan - Jordan - Comoros - Kyrgyzstan - Libya - Madagascar - Brunei Darussalam - Holy See (Vatican City State) - Croatia - Honduras - Central African Republic - Turkmenistan - Burkina Faso. 25
+Gabriela Magdalena Reynoso Montez: 77. Croatia - Botswana - Saudi Arabia - San Marino - Gibraltar - French Polynesia - Ukraine - Pakistan - Svalbard and Jan Mayen - South Georgia and the South Sandwich Islands - Malaysia - Saint Helena Ascension and Tristan da Cunha - Sri Lanka - Kenya - Cambodia - Uganda - Lao People's Democratic Republic - Austria - Kuwait - Bhutan - Benin - Andorra - Greece - Faroe Islands - Niger - Korea Republic of - Christmas Island. 27
+Ing. Laura Esquibel: 16. Togo - Georgia - Montserrat - Turkmenistan - Canada - Suriname - Brazil - Cayman Islands - Rwanda - Syrian Arab Republic - Nigeria - Antigua and Barbuda - Switzerland - Uganda - Andorra - South Georgia and the South Sandwich Islands - Hong Kong - Czechia - United Kingdom - Saudi Arabia - Tonga - Comoros - Libya - Honduras - Cameroon - Ukraine - Kuwait - Svalbard and Jan Mayen - Austria - Turks and Caicos Islands. 27
+Juan Tania Jiménez Olivares: 79. Trinidad and Tobago - Gibraltar - Suriname - Belgium - Venezuela Bolivarian Republic of - Netherlands - Kuwait - Marshall Islands - Vanuatu - Botswana - Burkina Faso - Montserrat - Monaco - Antigua and Barbuda - French Polynesia - Lao People's Democratic Republic - Portugal - Svalbard and Jan Mayen - Switzerland - Liechtenstein - Chad - Malaysia - Turks and Caicos Islands - Holy See (Vatican City State) - China. 30
+Violeta Pedro Rojo: 77. Burkina Faso - Indonesia - Canada - Nauru - Malta - Kazakhstan - Saudi Arabia - Brazil - Gibraltar - French Guiana - Slovakia - Syrian Arab Republic - Kyrgyzstan - Tokelau - Jordan - Timor-Leste - San Marino - Madagascar - Portugal - Belize - Sudan - Ukraine - Monaco - Saint Martin (French part) - Bhutan - Russian Federation - Andorra - Czechia - Liechtenstein - Malaysia. 28
+Aldo Elsa Laboy: 64. Congo - China - Kuwait - Greece - Heard Island and McDonald Islands - Croatia - South Georgia and the South Sandwich Islands - United Kingdom - Niger - Lao People's Democratic Republic - Malaysia - Svalbard and Jan Mayen - Sri Lanka - Turkmenistan - Slovakia - Malta - Saint Vincent and the Grenadines - Saudi Arabia - Central African Republic - Kenya - Marshall Islands - Jordan - Korea Democratic People's Republic of - Indonesia - Christmas Island - Turks and Caicos Islands. 30
+Francisco Acuña: 41. Madagascar - Hong Kong - Norway - Rwanda - Bulgaria - Cambodia - Belgium - Haiti - Antigua and Barbuda - Botswana - China - Niue - Malaysia - Sudan - Togo - Ukraine - New Caledonia - Heard Island and McDonald Islands - Malta - Panama - Croatia - Taiwan Province of China - South Georgia and the South Sandwich Islands - Montserrat - Turks and Caicos Islands - Saudi Arabia - Georgia. 26
+José Eduardo Bonilla: 77. Andorra - Montserrat - Nauru - Malaysia - Comoros - Syrian Arab Republic - Panama - Monaco - Croatia - Haiti - Luxembourg - Kazakhstan - Saudi Arabia - Korea Republic of - Libya - Micronesia Federated States of - Saint Vincent and the Grenadines - Portugal - North Macedonia - Holy See (Vatican City State) - Antigua and Barbuda - Ukraine - Saint Martin (French part) - Tonga - Indonesia - Venezuela Bolivarian Republic of - Kyrgyzstan - Aruba. 24
+Estefanía Débora Mora Tórrez: 36. Holy See (Vatican City State) - Liechtenstein - Serbia - Uganda - Tokelau - Central African Republic - Belize - Aruba - Kyrgyzstan - Greece - Azerbaijan - Andorra - Luxembourg - Congo - Cameroon - Turkmenistan - Croatia - San Marino - Saint Vincent and the Grenadines - Trinidad and Tobago - Niger - Switzerland - Cayman Islands - Pakistan - Montserrat - Tuvalu - Marshall Islands - Burkina Faso. 30
+Guillermina Frida Olvera: 59. Bulgaria - French Guiana - Moldova Republic of - Suriname - New Caledonia - Tokelau - United Kingdom - Chad - Saint Helena Ascension and Tristan da Cunha - Afghanistan - Congo - Taiwan Province of China - Cayman Islands - Croatia - Libya - Brazil - Turkmenistan - Niue - Saint Vincent and the Grenadines - Tonga - Burkina Faso - Slovakia - Monaco - Liechtenstein - Austria - Serbia - Portugal - Bhutan - Jordan - Sri Lanka - Hong Kong - Togo - Luxembourg. 26
+Sessa Escobar Garibay: 85. Botswana - Saint Helena Ascension and Tristan da Cunha - Kazakhstan - Togo - Monaco - China - Cameroon - Hong Kong - Bulgaria - Luxembourg - Cayman Islands - North Macedonia - Andorra - Turks and Caicos Islands - Brunei Darussalam - Greece - Antigua and Barbuda - Afghanistan - Slovakia - Russian Federation - San Marino - Austria - Benin - Tonga - Netherlands - New Caledonia. 30
+David Rentería: 65. Tonga - Malta - Cambodia - Niger - Kuwait - Ukraine - Pakistan - Monaco - Taiwan Province of China - Turks and Caicos Islands - Central African Republic - Christmas Island - Moldova Republic of - Nauru - Kenya - Croatia - Antigua and Barbuda - Serbia - Benin - Indonesia - Niue - Togo - Afghanistan - Bulgaria - Gibraltar - Nigeria - Timor-Leste - Korea Democratic People's Republic of - Turkmenistan - Micronesia Federated States of. 28
+Mauro Rosado Montes: 34. Cayman Islands - Timor-Leste - Azerbaijan - Kazakhstan - Brazil - Czechia - Liechtenstein - Belgium - Syrian Arab Republic - Canada - Saint Helena Ascension and Tristan da Cunha - Afghanistan - Heard Island and McDonald Islands - Jordan - Nigeria - Montserrat - New Caledonia - Venezuela Bolivarian Republic of - Saint Vincent and the Grenadines - Rwanda - Botswana - Madagascar - Luxembourg - Cambodia - Georgia - Bulgaria - Congo - Marshall Islands - Russian Federation - Faroe Islands - Svalbard and Jan Mayen - Nauru - Togo. 28
+Patricia Trujillo Rodríguez: 38. Kazakhstan - Suriname - Madagascar - Canada - Pakistan - Monaco - Haiti - Heard Island and McDonald Islands - Liechtenstein - Belize - Panama - Saint Vincent and the Grenadines - Antigua and Barbuda - French Polynesia - Botswana - Turks and Caicos Islands - Niue - Kuwait - Malaysia - New Caledonia - Honduras - Croatia - Lao People's Democratic Republic - Rwanda - Comoros - China - Ukraine - Gibraltar - Belgium - Micronesia Federated States of - Montserrat - Tonga. 27
+Luz Nayeli Fernández Valdés: 30. Jordan - Belgium - Brunei Darussalam - Timor-Leste - Switzerland - Chad - Russian Federation - Georgia - Niue - Saint Vincent and the Grenadines - Czechia - Greece - Rwanda - Cambodia - Sudan - Korea Democratic People's Republic of - Cameroon - Belize - China - New Caledonia - Venezuela Bolivarian Republic of - Portugal - Gibraltar - Tuvalu - Nigeria. 25
+Dr. Bernardo Polanco: 62. China - Ukraine - Norway - San Marino - French Guiana - Niger - Haiti - Korea Democratic People's Republic of - Afghanistan - Svalbard and Jan Mayen - Serbia - Honduras - Congo - Indonesia - Kyrgyzstan - Monaco - Malaysia - Andorra - Bulgaria - Timor-Leste - Taiwan Province of China - Saudi Arabia - Kazakhstan - Faroe Islands - Brunei Darussalam. 24
+Gloria Zaragoza Badillo: 38. Croatia - Tuvalu - Saint Vincent and the Grenadines - Jordan - Heard Island and McDonald Islands - Belize - Christmas Island - Turks and Caicos Islands - Lao People's Democratic Republic - Turkmenistan - Haiti - Korea Republic of - Malta - Togo - Sri Lanka - Suriname - Malaysia - Svalbard and Jan Mayen - Cameroon - Micronesia Federated States of - Niger - Montserrat - Saint Helena Ascension and Tristan da Cunha - Vanuatu - Afghanistan - Liechtenstein - Slovakia - China - Aruba - Holy See (Vatican City State). 24
+Mónica Isaac Luevano Guerra: 28. Niger - Hong Kong - Greece - Gibraltar - Svalbard and Jan Mayen - French Guiana - Trinidad and Tobago - Korea Democratic People's Republic of - South Georgia and the South Sandwich Islands - Uganda - Cambodia - Austria - Nigeria - Botswana - Kazakhstan - Moldova Republic of - Madagascar - Comoros - Brunei Darussalam - Andorra - Timor-Leste - Micronesia Federated States of - Monaco - Tokelau - Jordan - Honduras. 27
+Linda Jerónimo Loera: 35. Brazil - Serbia - Egypt - Faroe Islands - Moldova Republic of - Chad - Comoros - United Kingdom - Bhutan - North Macedonia - Monaco - Malaysia - Turkmenistan - Hong Kong - Kuwait - Panama - Switzerland - Greece - Sudan - Kyrgyzstan - Benin - Central African Republic - Botswana - South Georgia and the South Sandwich Islands - China - Czechia - Belgium - New Caledonia - Burkina Faso - Ukraine - Luxembourg - Trinidad and Tobago - Lao People's Democratic Republic. 27
+Aurora Daniel Lugo Armendáriz: 88. Turks and Caicos Islands - Brunei Darussalam - Saint Helena Ascension and Tristan da Cunha - Belgium - Congo - French Guiana - Bulgaria - Saint Vincent and the Grenadines - Georgia - Tuvalu - Uganda - Cayman Islands - Croatia - Aruba - Egypt - Sudan - Kazakhstan - United Kingdom - Czechia - Tonga - Norway - Christmas Island - Ukraine - Kenya - Chad - Holy See (Vatican City State) - Indonesia - Syrian Arab Republic - Marshall Islands - Burkina Faso - Niger - Pakistan - Serbia. 30
+Mtro. Isaac Rascón: 76. Moldova Republic of - Botswana - Saudi Arabia - Andorra - Sri Lanka - Libya - South Georgia and the South Sandwich Islands - Croatia - Kuwait - Saint Vincent and the Grenadines - Gibraltar - Panama - Liechtenstein - Kenya - San Marino - Saint Martin (French part) - Luxembourg - Ukraine - Afghanistan - Slovakia - Kyrgyzstan - Faroe Islands - Haiti - Czechia - Azerbaijan - Monaco - Tuvalu - Pakistan - Malaysia - Saint Helena Ascension and Tristan da Cunha - Korea Democratic People's Republic of - Cambodia. 27
+Barbara Guzmán Montoya: 90. Comoros - Honduras - Uganda - New Caledonia - Taiwan Province of China - Korea Republic of - Bhutan - Turkmenistan - Brazil - Nigeria - Croatia - Saudi Arabia - Burkina Faso - Austria - Indonesia - Hong Kong - Sudan - Cambodia - Rwanda - Holy See (Vatican City State) - Korea Democratic People's Republic of - Congo - Aruba - Heard Island and McDonald Islands - Togo - Belize - Jordan - Saint Martin (French part). 28
+Pamela Bueno Chapa: 17. Egypt - Serbia - New Caledonia - Monaco - Azerbaijan - Panama - San Marino - Norway - Malaysia - Timor-Leste - Turks and Caicos Islands - Nigeria - Czechia - Afghanistan - North Macedonia - Tonga - Indonesia - Greece - Faroe Islands - Kyrgyzstan - Bhutan - Botswana - Tokelau - Brunei Darussalam - Ukraine - Chad - Uganda - Portugal. 26
+Ing. Abel Galván: 79. Austria - Belgium - Malta - Uganda - Venezuela Bolivarian Republic of - Panama - Gibraltar - Holy See (Vatican City State) - Jordan - Faroe Islands - Micronesia Federated States of - Madagascar - Nauru - Canada - Brazil - San Marino - Saint Helena Ascension and Tristan da Cunha - Bulgaria - Haiti - Andorra - Niger - Benin - Aruba - Suriname - Czechia - Georgia. 26
+Dr. Maximiliano Ortiz: 71. Andorra - Cambodia - Hong Kong - Russian Federation - Benin - Niue - Libya - China - Malaysia - Jordan - Holy See (Vatican City State) - Kyrgyzstan - Taiwan Province of China - Panama - Kazakhstan - Heard Island and McDonald Islands - Central African Republic - New Caledonia - Gibraltar - Kenya - Niger - Haiti - Pakistan - Lao People's Democratic Republic - Belgium - Egypt - Liechtenstein - Korea Republic of - Serbia - Tokelau. 24
+Abel Zeferino Munguía: 26. Pakistan - Rwanda - North Macedonia - Canada - Switzerland - Madagascar - Svalbard and Jan Mayen - Nigeria - Saint Vincent and the Grenadines - Jordan - Czechia - Micronesia Federated States of - Trinidad and Tobago - Greece - Holy See (Vatican City State) - Russian Federation - Korea Democratic People's Republic of - Christmas Island - New Caledonia - Kazakhstan - Croatia - Tonga - Turks and Caicos Islands - Netherlands - Cayman Islands - Nauru - Marshall Islands - Monaco - Suriname - Saint Helena Ascension and Tristan da Cunha - Georgia - Egypt. 24
+Sr(a). Anel Baeza: 59. Chad - Libya - Saudi Arabia - Hong Kong - Saint Vincent and the Grenadines - Uganda - Suriname - Burkina Faso - Haiti - Turks and Caicos Islands - Cambodia - Bhutan - Taiwan Province of China - Tonga - Panama - Belgium - Monaco - United Kingdom - Austria - New Caledonia - Aruba - Ukraine - Venezuela Bolivarian Republic of - Netherlands - Honduras - Niger - Turkmenistan - Christmas Island - Central African Republic - Belize - Georgia - Afghanistan - Norway. 25
+Yuridia Irma Velasco Villagómez: 10. Sudan - Korea Republic of - Austria - North Macedonia - Pakistan - San Marino - Cambodia - Burkina Faso - Azerbaijan - Bhutan - Tuvalu - Brazil - Jordan - Uganda - New Caledonia - Honduras - Bulgaria - Venezuela Bolivarian Republic of - Niue - Saudi Arabia - Taiwan Province of China - Ukraine - Suriname - Croatia - Saint Vincent and the Grenadines - Hong Kong - Christmas Island - Cameroon - Luxembourg - Canada. 26
+Guillermo Venegas Puga: 45. United Kingdom - Georgia - Suriname - Malaysia - Vanuatu - Montserrat - Aruba - Liechtenstein - Saudi Arabia - Brazil - Belize - Cambodia - Serbia - Kyrgyzstan - Malta - Chad - Saint Vincent and the Grenadines - San Marino - Christmas Island - French Polynesia - Antigua and Barbuda - Korea Democratic People's Republic of - Gibraltar - Faroe Islands - China. 24
+Esperanza Arevalo: 74. Montserrat - Greece - New Caledonia - Serbia - Christmas Island - Nigeria - Saudi Arabia - Saint Vincent and the Grenadines - Afghanistan - Saint Helena Ascension and Tristan da Cunha - Aruba - Kyrgyzstan - Lao People's Democratic Republic - Venezuela Bolivarian Republic of - Luxembourg - French Guiana - Niue - Indonesia - Faroe Islands - Sudan - Brunei Darussalam - Egypt - Austria - Madagascar - Tuvalu - Hong Kong - Tokelau - Panama - Kazakhstan - Bhutan - Heard Island and McDonald Islands - Slovakia. 25
+Oswaldo Jerónimo Beltrán Roque: 89. Botswana - South Georgia and the South Sandwich Islands - Marshall Islands - Svalbard and Jan Mayen - Canada - Uganda - Holy See (Vatican City State) - Rwanda - Brazil - Kuwait - Belgium - Benin - Serbia - United Kingdom - Sudan - Cambodia - Vanuatu - Central African Republic - Portugal - Netherlands - Belize - Pakistan - Saint Vincent and the Grenadines - French Polynesia - Jordan - Cameroon - North Macedonia. 27
+Dr. Alejandro Trejo: 49. Malaysia - Ukraine - Netherlands - Nauru - Cameroon - Chad - Cayman Islands - Pakistan - Kyrgyzstan - Rwanda - Vanuatu - Holy See (Vatican City State) - Cambodia - Honduras - Korea Republic of - Moldova Republic of - Sri Lanka - Liechtenstein - Saint Helena Ascension and Tristan da Cunha - Portugal - Aruba - Saudi Arabia - Suriname - Madagascar - Bhutan - Malta. 24
+Dr. Ramiro Yáñez: 69. Sudan - Gibraltar - Montserrat - Bhutan - Tokelau - Moldova Republic of - Saint Helena Ascension and Tristan da Cunha - Cayman Islands - Libya - Suriname - China - Switzerland - Svalbard and Jan Mayen - Korea Democratic People's Republic of - Ukraine - Turks and Caicos Islands - Afghanistan - Haiti - Nigeria - Egypt - North Macedonia - Bulgaria - Belgium - New Caledonia - Norway - Cambodia. 25
+Bernabé Carrasco Padrón: 79. Vanuatu - Croatia - Sudan - Panama - Lao People's Democratic Republic - Pakistan - Moldova Republic of - Congo - Hong Kong - Nauru - Greece - Luxembourg - Benin - Cayman Islands - Rwanda - Tonga - Cameroon - Svalbard and Jan Mayen - Taiwan Province of China - Nigeria - Canada - Suriname - Niger - Kazakhstan - Turkmenistan - Niue - Andorra - Faroe Islands - Kenya - Brazil. 26
+Esparta Germán Mata: 11. Kyrgyzstan - Aruba - Congo - North Macedonia - Kazakhstan - Turks and Caicos Islands - Burkina Faso - Syrian Arab Republic - Marshall Islands - Moldova Republic of - Luxembourg - Haiti - Serbia - Gibraltar - Nauru - Jordan - Saudi Arabia - Vanuatu - Malta - South Georgia and the South Sandwich Islands - Central African Republic - Canada - French Polynesia - Niue - Tonga - Saint Martin (French part) - Honduras - Slovakia - Netherlands - Montserrat - Tuvalu - Taiwan Province of China - New Caledonia. 26
+Araceli María del Carmen Maestas Suárez: 62. Saudi Arabia - Czechia - Azerbaijan - Afghanistan - Central African Republic - Christmas Island - North Macedonia - Micronesia Federated States of - Bulgaria - Tuvalu - Ukraine - Slovakia - Monaco - Uganda - Panama - Pakistan - Saint Martin (French part) - French Guiana - Georgia - Lao People's Democratic Republic - Croatia - Nauru - Canada - Korea Democratic People's Republic of - Austria - Benin - Malaysia - Luxembourg - Suriname. 26
+Mtro. Guillermo Ruelas: 62. Niger - Taiwan Province of China - Montserrat - Central African Republic - Trinidad and Tobago - Korea Republic of - Honduras - Marshall Islands - Norway - Russian Federation - Brazil - Saint Vincent and the Grenadines - Togo - Malta - Heard Island and McDonald Islands - Malaysia - Micronesia Federated States of - Kenya - Monaco - San Marino - Botswana - Saudi Arabia - Czechia - Serbia - Egypt - Benin - Azerbaijan - Saint Helena Ascension and Tristan da Cunha - Aruba - Nauru. 30
+Dr. Úrsula Serrato: 81. Uganda - Serbia - Malaysia - Russian Federation - Venezuela Bolivarian Republic of - Holy See (Vatican City State) - Aruba - Jordan - Nigeria - Korea Democratic People's Republic of - Indonesia - Nauru - Malta - Trinidad and Tobago - Saint Martin (French part) - Egypt - Turkmenistan - Tonga - Timor-Leste - Saint Vincent and the Grenadines - United Kingdom - Brazil - Rwanda - Portugal - Bhutan - Luxembourg. 29
+Estefanía Ramírez Carrera: 47. Cayman Islands - French Polynesia - Tonga - Togo - Russian Federation - Egypt - Libya - Norway - Suriname - Kazakhstan - Tokelau - Korea Republic of - Jordan - Croatia - Andorra - Rwanda - Saint Martin (French part) - Turks and Caicos Islands - French Guiana - Belize - Central African Republic - Saint Vincent and the Grenadines - Congo - Georgia - Canada - Vanuatu - Christmas Island - Venezuela Bolivarian Republic of - Lao People's Democratic Republic - Austria - Taiwan Province of China - Marshall Islands. 28
+Noemí Marín Merino: 58. Uganda - Malaysia - Saint Vincent and the Grenadines - Netherlands - Ukraine - Sudan - Honduras - Svalbard and Jan Mayen - Slovakia - Trinidad and Tobago - Timor-Leste - Azerbaijan - Korea Republic of - Switzerland - Bulgaria - Monaco - Cayman Islands - Austria - French Guiana - Belize - Syrian Arab Republic - Taiwan Province of China - Canada - Andorra - Antigua and Barbuda - Tuvalu - Norway. 30
+Olga Elisa Altamirano: 34. Egypt - Turkmenistan - Antigua and Barbuda - Vanuatu - Slovakia - Kazakhstan - Andorra - Portugal - Turks and Caicos Islands - Jordan - Micronesia Federated States of - Hong Kong - Austria - Croatia - Aruba - Chad - Georgia - South Georgia and the South Sandwich Islands - Saudi Arabia - Nigeria - Azerbaijan - Russian Federation - Holy See (Vatican City State) - Liechtenstein - Norway - Marshall Islands - Taiwan Province of China - Bulgaria - Suriname - Greece - Malta. 28
+Alberto Ordóñez León: 41. Turks and Caicos Islands - Lao People's Democratic Republic - New Caledonia - Heard Island and McDonald Islands - Kazakhstan - Honduras - Marshall Islands - Tuvalu - Taiwan Province of China - Madagascar - Ukraine - Slovakia - Pakistan - Suriname - Saint Helena Ascension and Tristan da Cunha - Saint Martin (French part) - Syrian Arab Republic - Monaco - Sri Lanka - Czechia - Andorra - Austria - Greece - Malta - Haiti - San Marino - Malaysia - French Polynesia. 25
+Eugenio Ángela Mendoza: 62. Niue - Austria - Holy See (Vatican City State) - Kenya - Faroe Islands - Antigua and Barbuda - Hong Kong - Gibraltar - Malta - Kuwait - Marshall Islands - Benin - Liechtenstein - Greece - Sri Lanka - Congo - Nigeria - Bhutan - Switzerland - Christmas Island - Niger - Panama - Comoros - Timor-Leste - Pakistan - Saint Martin (French part) - Norway - French Guiana - Syrian Arab Republic - Nauru - Haiti - Saint Vincent and the Grenadines - Portugal. 25
+Perla Ramón Nazario: 85. Micronesia Federated States of - Malta - Congo - Botswana - French Guiana - Egypt - Afghanistan - Sri Lanka - Brazil - Vanuatu - Norway - Jordan - Malaysia - Serbia - Montserrat - North Macedonia - China - Indonesia - Kuwait - Holy See (Vatican City State) - Burkina Faso - Niue - Comoros - Turks and Caicos Islands - Russian Federation - Netherlands - Czechia - Korea Democratic People's Republic of - Tuvalu - Suriname - Tokelau - Kenya - Rwanda. 26
+Aurelio Isabel Munguía Ozuna: 20. Greece - Montserrat - Norway - Niger - Rwanda - Vanuatu - Russian Federation - Suriname - Madagascar - Malta - Svalbard and Jan Mayen - Christmas Island - Heard Island and McDonald Islands - Ukraine - Congo - Panama - Faroe Islands - French Polynesia - Hong Kong - Kyrgyzstan - Saint Vincent and the Grenadines - French Guiana - Belgium - Togo - Bulgaria. 29
+Nancy Figueroa: 13. Niue - Ukraine - Aruba - Slovakia - Botswana - North Macedonia - Canada - Malta - Heard Island and McDonald Islands - Norway - Croatia - Vanuatu - Azerbaijan - Nigeria - Saint Helena Ascension and Tristan da Cunha - Kyrgyzstan - Libya - Andorra - Indonesia - Central African Republic - Pakistan - Belgium - Moldova Republic of - Montserrat - Jordan - Bhutan - Cameroon - Brazil - Saint Vincent and the Grenadines - Tokelau - South Georgia and the South Sandwich Islands - Uganda - Korea Democratic People's Republic of. 30
+Eric Casárez: 23. Afghanistan - Kyrgyzstan - Gibraltar - Togo - Lao People's Democratic Republic - Botswana - Aruba - Azerbaijan - Cambodia - New Caledonia - Christmas Island - Egypt - Kuwait - Svalbard and Jan Mayen - Saint Vincent and the Grenadines - Timor-Leste - Congo - Indonesia - Suriname - Luxembourg - Greece - Cayman Islands - Marshall Islands - Malta - Tokelau - Nauru - Korea Republic of. 27
+Noemí Montes: 22. Georgia - Central African Republic - Malta - Svalbard and Jan Mayen - Portugal - Niger - Marshall Islands - Vanuatu - Liechtenstein - Rwanda - Botswana - Russian Federation - Benin - Suriname - Congo - Serbia - Luxembourg - Tuvalu - New Caledonia - Slovakia - Gibraltar - Timor-Leste - Cayman Islands - Cambodia - Pakistan - Belgium - Christmas Island - Malaysia - French Guiana - Hong Kong - Comoros. 30
+Carmen Blanca Viera Bañuelos: 68. Austria - Sri Lanka - United Kingdom - Saint Martin (French part) - Belize - Afghanistan - Slovakia - Marshall Islands - Syrian Arab Republic - Venezuela Bolivarian Republic of - Haiti - Svalbard and Jan Mayen - Kenya - Kazakhstan - Honduras - Congo - Ukraine - Montserrat - Jordan - Niue - Comoros - Norway - Netherlands - Nigeria - Trinidad and Tobago - Monaco - Libya - Turkmenistan - Holy See (Vatican City State) - Lao People's Democratic Republic - Indonesia. 29
+Amelia Débora Colunga: 58. Gibraltar - Tokelau - Vanuatu - Niue - Libya - Liechtenstein - Lao People's Democratic Republic - Hong Kong - Croatia - Czechia - Suriname - Serbia - Korea Democratic People's Republic of - Austria - San Marino - Nauru - Holy See (Vatican City State) - French Polynesia - Trinidad and Tobago - Saint Vincent and the Grenadines - Brazil - Comoros - Bulgaria - Belgium - Antigua and Barbuda - Tonga - Korea Republic of - Greece - China - Kyrgyzstan - Nigeria - Madagascar - South Georgia and the South Sandwich Islands. 26
+Norma Elvira Rosario: 66. Congo - Central African Republic - Niger - Aruba - Madagascar - Belgium - Brunei Darussalam - Switzerland - Korea Republic of - Uganda - Benin - Bhutan - Haiti - Tokelau - Moldova Republic of - Egypt - Indonesia - Kuwait - Christmas Island - Austria - Pakistan - Micronesia Federated States of - United Kingdom - Hong Kong - Taiwan Province of China - Nigeria - Tonga - French Polynesia - San Marino - Turks and Caicos Islands - Antigua and Barbuda - Portugal. 28
+Esparta Alonzo Nieto: 74. San Marino - Brazil - Venezuela Bolivarian Republic of - Egypt - Russian Federation - Korea Democratic People's Republic of - Benin - Czechia - Cambodia - Holy See (Vatican City State) - Togo - Panama - Saudi Arabia - Nigeria - Libya - Pakistan - Turkmenistan - China - Liechtenstein - Timor-Leste - Gibraltar - Croatia - Nauru - Greece - Niger - Norway - French Guiana - Indonesia - Bhutan - Suriname - Netherlands. 28
+Dr. Victoria Velásquez: 87. Canada - Comoros - Togo - Aruba - Tuvalu - Kuwait - Saint Helena Ascension and Tristan da Cunha - Saudi Arabia - Czechia - Bulgaria - Congo - United Kingdom - Turks and Caicos Islands - Korea Republic of - French Polynesia - Antigua and Barbuda - Brazil - Nigeria - Jordan - Micronesia Federated States of - Tokelau - Saint Martin (French part) - South Georgia and the South Sandwich Islands - Ukraine - Portugal - Switzerland - Belize - Malta - Malaysia. 24
+Espartaco Nava: 60. Cameroon - Kuwait - Saint Helena Ascension and Tristan da Cunha - Norway - Korea Republic of - Liechtenstein - Panama - Afghanistan - Turks and Caicos Islands - Bulgaria - Austria - Portugal - Gibraltar - United Kingdom - Uganda - Central African Republic - Pakistan - Togo - Congo - Timor-Leste - Marshall Islands - Sri Lanka - Kyrgyzstan - Ukraine - Montserrat - French Polynesia - China - Malta - Tokelau - Nigeria. 30
+Octavio Marisol Garay: 64. Honduras - Aruba - Indonesia - Faroe Islands - Botswana - Libya - French Polynesia - Brunei Darussalam - Serbia - Comoros - Malta - Tuvalu - Liechtenstein - Malaysia - Canada - Christmas Island - Taiwan Province of China - Chad - Saint Vincent and the Grenadines - Panama - Andorra - Niue - Hong Kong - Saint Helena Ascension and Tristan da Cunha - Svalbard and Jan Mayen - Antigua and Barbuda - Heard Island and McDonald Islands. 29
+Mario Ferrer Ortega: 95. Trinidad and Tobago - Aruba - Hong Kong - Tuvalu - Croatia - Gibraltar - Monaco - Korea Democratic People's Republic of - Saint Helena Ascension and Tristan da Cunha - Cayman Islands - Brazil - Turkmenistan - Ukraine - Taiwan Province of China - Micronesia Federated States of - Malta - Switzerland - Botswana - Congo - Nauru - Jordan - Malaysia - Holy See (Vatican City State) - Antigua and Barbuda - Moldova Republic of. 24
+Fidel Alta  Gracia Ibarra Solano: 72. Sri Lanka - New Caledonia - French Guiana - Botswana - Aruba - Belize - Nigeria - Norway - Russian Federation - Liechtenstein - Afghanistan - Azerbaijan - Monaco - Panama - Uganda - San Marino - Pakistan - Korea Democratic People's Republic of - Gibraltar - Bulgaria - Timor-Leste - Congo - Libya - Kyrgyzstan - Micronesia Federated States of - Brunei Darussalam - Kazakhstan - Syrian Arab Republic - Korea Republic of. 24
+Tania Santiago Regalado: 36. Liechtenstein - Slovakia - Holy See (Vatican City State) - Austria - Brazil - Tokelau - Belgium - Faroe Islands - Honduras - Panama - Vanuatu - Korea Democratic People's Republic of - Venezuela Bolivarian Republic of - Ukraine - Jordan - Cambodia - Nauru - Turkmenistan - Gibraltar - Taiwan Province of China - Indonesia - Tuvalu - Bulgaria - San Marino - Saudi Arabia - Cayman Islands. 26
+Lic. Esparta Salazar: 76. Belize - Congo - Brunei Darussalam - Indonesia - Turkmenistan - Andorra - Belgium - Kenya - Cambodia - French Guiana - Kyrgyzstan - Korea Republic of - North Macedonia - Aruba - French Polynesia - Vanuatu - Malaysia - Antigua and Barbuda - Micronesia Federated States of - Sri Lanka - Greece - Luxembourg - Svalbard and Jan Mayen - Bhutan - Timor-Leste - Monaco - Georgia - Niue - Botswana - Panama - Slovakia - Tonga. 27
+Gilberto Carrión: 50. Christmas Island - Brazil - Niger - Cayman Islands - Botswana - Sri Lanka - Turkmenistan - Nigeria - Canada - Panama - Sudan - China - Jordan - San Marino - Benin - Congo - Nauru - Libya - North Macedonia - Netherlands - Korea Republic of - Burkina Faso - Micronesia Federated States of - South Georgia and the South Sandwich Islands - Tonga - Turks and Caicos Islands - Venezuela Bolivarian Republic of - Saint Martin (French part) - Norway - Moldova Republic of. 29
+*** FIN PASAJEROS EN CUARENTENA ***
+*** COMIENZO HABITANTES EN CUARENTENA ***
+Mtro. Isabel Vela: 95. Sector 141
+Conchita Ricardo Alvarez: 21. Sector 48
+Rocío Mesa López: 69. Sector 385
+Ing. Elias Reynoso: 95. Sector 203
+Lic. Germán Ureña: 22. Sector 24
+Estela Marín Guerra: 23. Sector 211
+José Carlos Eric Villalobos: 74. Sector 83
+Dr. Lilia Berríos: 91. Sector 66
+Ernesto Leonardo Cedillo: 10. Sector 357
+Cristobal Tovar Castillo: 75. Sector 404
+Bernardo Alejandro Guajardo Lebrón: 73. Sector 115
+José Luis Gerónimo Cervántez Ibarra: 67. Sector 299
+Dr. Alfredo Cavazos: 60. Sector 219
+Elvira Abel Tamayo Arriaga: 88. Sector 122
+Beatriz Antonia Montalvo: 88. Sector 267
+Cecilia Aida Bernal: 76. Sector 68
+Adán Armando de Jesús Burgos: 83. Sector 235
+Gerardo Ortiz Cisneros: 70. Sector 271
+Leonel Altamirano Puga: 58. Sector 265
+David Roberto Canales: 11. Sector 215
+Dr. Mónica Beltrán: 73. Sector 261
+Lic. Rodolfo Corrales: 78. Sector 125
+Roberto Feliciano: 75. Sector 109
+Diana Arenas Suárez: 87. Sector 188
+Adela Jesús Acevedo: 80. Sector 360
+Hugo Eugenio Arce: 79. Sector 279
+Ing. Humberto Bravo: 30. Sector 180
+Ing. Marisela Ledesma: 65. Sector 318
+Ofelia Niño: 62. Sector 339
+Juana Alva Carreón: 24. Sector 206
+Hugo Montemayor Bermúdez: 28. Sector 246
+María del Carmen Timoteo Blanco: 43. Sector 77
+Sr(a). Sessa Calvillo: 69. Sector 341
+Mtro. Silvano Tirado: 17. Sector 125
+Ing. Eric Portillo: 94. Sector 35
+Ing. Amanda Jiménez: 49. Sector 173
+Yeni Leticia Salinas Peralta: 67. Sector 333
+Sr(a). Bianca Altamirano: 91. Sector 375
+Berta Brito Guillen: 75. Sector 153
+Cristobal Juan Carlos Magaña de la O: 72. Sector 0
+Gabino Peña: 85. Sector 283
+Jacinto Olivo Alvarado: 89. Sector 2
+María del Carmen Niño: 74. Sector 68
+Sr(a). Maximiliano Rivero: 29. Sector 238
+José Carlos Raúl Salgado Batista: 76. Sector 41
+Dr. Alma Navarro: 78. Sector 159
+Helena Reséndez Dávila: 81. Sector 75
+Jos Bueno: 90. Sector 169
+Estela Guzmán Pedraza: 69. Sector 339
+Sr(a). Bianca Curiel: 20. Sector 342
+Emiliano Diana Saldaña: 59. Sector 122
+Caridad Camarillo Guardado: 75. Sector 375
+Oswaldo Caridad Quintero del Río: 79. Sector 65
+Santiago Piña Arguello: 43. Sector 74
+Vanesa David Trejo Calvillo: 69. Sector 4
+Benito Parra: 18. Sector 247
+*** FIN HABITANTES EN CUARENTENA ***
+*** COMIENZO PASAJEROS DE VUELOS INFECTADOS ***
+Rodrigo Raquel Alvarado: 48. 294 - 109 - 132 - 136 - 304 - 46 - 259 - 154 - 72 - 321 - 314 - 55 - 349 - 348 - 24 - 357 - 108 - 206
+Salvador Raquel Corral Canales: 59. 277 - 316 - 353 - 283 - 197 - 48 - 152 - 344 - 163 - 165 - 34 - 88 - 62 - 254 - 141
+Carlota María Teresa Posada Salinas: 69. 344 - 285 - 282 - 324 - 349 - 189 - 146 - 343 - 154 - 183 - 150 - 66 - 369 - 36
+Daniela Calderón: 95. 58 - 154 - 167 - 240 - 188 - 36 - 354 - 0 - 52
+Armando Nelly Correa Carrión: 70. 54 - 154 - 118 - 206 - 27 - 62 - 101 - 79 - 148 - 18
+Eugenia Báez: 58. 22 - 151 - 367 - 264 - 252 - 246 - 269 - 224 - 88 - 62 - 72 - 319 - 127
+Jos Amelia Aponte: 59. 264 - 66 - 189 - 3 - 55 - 259 - 154 - 339 - 176 - 291 - 351
+Ilse Wendolin Heredia: 85. 19 - 224 - 59 - 107 - 310 - 108 - 196 - 141
+Rosa Gloria Santiago Zúñiga: 79. 101 - 159 - 357 - 349 - 143 - 103 - 160 - 108 - 370 - 117 - 314 - 206 - 169 - 134 - 230 - 213
+Caridad Jesús Escobar: 75. 351 - 283 - 311 - 52 - 39 - 267 - 249 - 165
+Clara Salgado: 41. 151 - 113 - 141 - 275 - 3 - 353 - 134 - 68 - 107 - 314 - 159 - 349 - 190 - 239 - 209 - 108 - 361 - 55 - 298 - 150 - 365 - 103
+Rosa Mauricio Sanches Miranda: 54. 83 - 132 - 7 - 90 - 299 - 289 - 273 - 239 - 206 - 74 - 369
+Susana Tomás Urrutia Arroyo: 45. 103 - 254 - 7 - 228 - 143 - 107 - 72 - 86 - 246 - 310 - 212 - 194 - 66 - 62
+Sr(a). Susana Nieves: 87. 332 - 269 - 7 - 307 - 277 - 152 - 19 - 369 - 109 - 213 - 148
+Dr. Zacarías Bueno: 45. 48 - 142 - 269 - 341 - 240 - 86 - 68 - 96 - 122 - 311 - 56 - 43 - 150 - 239
+Daniela Ruiz Zelaya: 13. 86 - 46 - 108 - 41 - 299 - 178 - 233 - 365 - 197 - 349 - 320 - 170
+Raquel Arguello: 82. 320 - 177 - 307 - 100 - 86 - 341 - 107 - 142 - 357 - 250 - 271 - 5 - 270
+Mtro. Perla Longoria: 28. 14 - 19 - 194 - 54 - 257 - 349 - 66 - 129 - 255 - 190
+Augusto Barela: 26. 354 - 282 - 264 - 118 - 353 - 101
+Abel Valadez: 82. 264 - 302 - 275 - 353 - 307 - 321 - 36 - 7 - 111 - 259 - 251 - 19 - 170 - 230 - 354 - 370
+Pilar Gil: 84. 265 - 24 - 206 - 190 - 169 - 224 - 280 - 357 - 324 - 277 - 273 - 271 - 64
+Rufino Nancy Domínguez: 61. 34 - 267 - 247 - 251 - 44 - 148 - 270 - 72 - 39 - 36 - 134 - 174 - 324 - 143
+Óliver Avilés: 84. 146 - 311 - 265 - 292 - 46 - 41 - 113 - 289 - 252 - 281 - 62 - 343 - 239
+Lorena Gabriela Valle: 25. 324 - 44 - 9 - 134 - 188 - 339 - 163 - 311 - 143 - 72 - 159 - 133 - 255 - 308 - 348
+Rocío Bravo: 33. 264 - 302 - 111 - 53 - 18 - 55 - 83 - 340 - 5
+Horacio Sisneros Villalobos: 15. 280 - 68 - 129 - 122 - 285 - 146 - 269 - 271 - 299 - 154 - 172 - 176 - 252 - 27 - 282
+Amelia Correa: 86. 264 - 27 - 280 - 107 - 172 - 109 - 74 - 188 - 151 - 196
+Dr. María Eugenia Gollum: 75. 160 - 354 - 29 - 24 - 325 - 254 - 321 - 17 - 118 - 163 - 212 - 64 - 79
+Lic. Raquel Merino: 11. 209 - 0 - 53 - 307 - 5 - 7 - 19 - 252 - 68 - 370 - 62 - 299 - 311 - 266 - 340
+Alvaro Nancy Apodaca Carrillo: 58. 133 - 209 - 36 - 53 - 108 - 349 - 254 - 275 - 83 - 154 - 64 - 24
+Lorenzo Leticia Laureano: 64. 321 - 292 - 325 - 361 - 280 - 212 - 176 - 275 - 332 - 90 - 53 - 120 - 354 - 188 - 34
+Alfonso Carrión Cantú: 93. 367 - 176 - 253 - 340 - 281 - 172 - 339 - 74 - 129 - 65 - 160 - 255 - 107 - 304 - 43 - 34
+Clemente Orta: 93. 177 - 108 - 246 - 27 - 150 - 62 - 46 - 311 - 292
+Gabriela Magdalena Reynoso Montez: 77. 361 - 108 - 20 - 52 - 129 - 341 - 273 - 141 - 177 - 43 - 100 - 230 - 199 - 280 - 120 - 0
+Ing. Laura Esquibel: 16. 292 - 183 - 152 - 142 - 131 - 101 - 12 - 271 - 176 - 351 - 136 - 270 - 59 - 156 - 308
+Juan Tania Jiménez Olivares: 79. 356 - 39 - 43 - 367 - 298 - 131 - 325 - 206 - 20 - 267 - 354 - 167 - 254 - 83
+Violeta Pedro Rojo: 77. 339 - 313 - 311 - 275 - 136 - 14 - 344 - 36 - 189 - 111 - 90
+Aldo Elsa Laboy: 64. 188 - 46 - 277 - 314 - 356 - 19 - 196 - 39 - 291 - 56 - 281 - 270
+Francisco Acuña: 41. 101 - 29 - 96 - 44 - 253 - 233 - 287 - 136 - 65 - 259 - 62 - 269
+José Eduardo Bonilla: 77. 224 - 254 - 34 - 141 - 131 - 255 - 178 - 172 - 132 - 270 - 251
+Estefanía Débora Mora Tórrez: 36. 367 - 325 - 131 - 194 - 339 - 255 - 37 - 252 - 107 - 146 - 370 - 136
+Guillermina Frida Olvera: 59. 118 - 364 - 22 - 24 - 339 - 289 - 167 - 29 - 255 - 143 - 52 - 294
+Sessa Escobar Garibay: 85. 68 - 26 - 127 - 230 - 267 - 142 - 354 - 152 - 190 - 132 - 107
+David Rentería: 65. 66 - 79 - 369 - 134 - 190 - 29 - 281 - 252 - 133 - 196 - 270
+Mauro Rosado Montes: 34. 361 - 308 - 136 - 299 - 319 - 41 - 66 - 271 - 294 - 46 - 59
+Patricia Trujillo Rodríguez: 38. 163 - 96 - 361 - 159 - 246 - 39 - 103 - 88 - 43 - 228 - 247 - 357 - 136 - 109 - 41
+Luz Nayeli Fernández Valdés: 30. 66 - 34 - 172 - 247 - 332 - 170 - 357 - 283
+Dr. Bernardo Polanco: 62. 257 - 170 - 56 - 152 - 159 - 111 - 340 - 65 - 36 - 281 - 307 - 349
+Gloria Zaragoza Badillo: 38. 206 - 122 - 319 - 146 - 86 - 311 - 291 - 58 - 325
+Mónica Isaac Luevano Guerra: 28. 3 - 167 - 64 - 285 - 142 - 249 - 255 - 68 - 152 - 127 - 259 - 118 - 341
+Linda Jerónimo Loera: 35. 126 - 148 - 224 - 127 - 36 - 251 - 107 - 313 - 3 - 197
+Aurora Daniel Lugo Armendáriz: 88. 253 - 65 - 361 - 230 - 282 - 250 - 275 - 196 - 118 - 314 - 111 - 190 - 68 - 178 - 46 - 228 - 156
+Mtro. Isaac Rascón: 76. 254 - 55 - 176 - 160 - 88 - 62 - 122 - 291 - 172 - 36 - 136 - 152 - 213 - 86
+Barbara Guzmán Montoya: 90. 19 - 271 - 196 - 320 - 36 - 307 - 354 - 169 - 285 - 17 - 314 - 332 - 370 - 133 - 316 - 369
+Pamela Bueno Chapa: 17. 96 - 353 - 349 - 199 - 287 - 17 - 101 - 177 - 56 - 239 - 365 - 12
+Ing. Abel Galván: 79. 266 - 194 - 178 - 249 - 54 - 212 - 90 - 96 - 325 - 260 - 0 - 250
+Dr. Maximiliano Ortiz: 71. 364 - 230 - 27 - 141 - 367 - 224 - 41 - 113 - 356 - 127 - 62 - 275 - 19 - 190 - 357
+Abel Zeferino Munguía: 26. 154 - 169 - 199 - 122 - 53 - 86 - 369 - 313 - 14 - 148 - 325 - 44 - 353 - 134 - 103 - 27
+Sr(a). Anel Baeza: 59. 41 - 159 - 356 - 148 - 282 - 177
+Yuridia Irma Velasco Villagómez: 10. 209 - 321 - 240 - 273 - 319 - 364 - 165 - 46 - 340 - 304
+Guillermo Venegas Puga: 45. 141 - 66 - 167 - 131 - 302 - 365 - 43 - 26 - 281 - 316 - 53 - 129
+Esperanza Arevalo: 74. 22 - 14 - 270 - 36 - 239 - 46 - 34 - 103 - 228 - 339 - 159 - 113 - 58 - 224
+Oswaldo Jerónimo Beltrán Roque: 89. 176 - 151 - 281 - 39 - 19 - 133 - 108 - 252 - 159 - 311 - 319 - 275 - 3 - 55 - 212
+Dr. Alejandro Trejo: 49. 209 - 302 - 22 - 86 - 156 - 172 - 90 - 142 - 183
+Dr. Ramiro Yáñez: 69. 325 - 39 - 209 - 287 - 148 - 364 - 83 - 36 - 29 - 283 - 111
+Bernabé Carrasco Padrón: 79. 88 - 230 - 111 - 206 - 275 - 131 - 170 - 285 - 163 - 159 - 298 - 178
+Esparta Germán Mata: 11. 178 - 7 - 277 - 208 - 280 - 127 - 83 - 289 - 0 - 246 - 209 - 34 - 197
+Araceli María del Carmen Maestas Suárez: 62. 7 - 349 - 310 - 64 - 188 - 134 - 183 - 117 - 136 - 240 - 90
+Mtro. Guillermo Ruelas: 62. 264 - 14 - 266 - 41 - 34 - 55 - 291 - 101 - 90 - 354 - 24 - 313 - 343 - 190 - 247
+Dr. Úrsula Serrato: 81. 107 - 364 - 357 - 142 - 65 - 101 - 48 - 109 - 26 - 294 - 62 - 321
+Estefanía Ramírez Carrera: 47. 39 - 357 - 159 - 253 - 281 - 190 - 169 - 259 - 178 - 134 - 332 - 314
+Noemí Marín Merino: 58. 339 - 354 - 111 - 252 - 62 - 5 - 154 - 298 - 136 - 41 - 255 - 271
+Olga Elisa Altamirano: 34. 212 - 339 - 370 - 159 - 165 - 122 - 170 - 320 - 246 - 151 - 239 - 9 - 294
+Alberto Ordóñez León: 41. 267 - 364 - 131 - 14 - 172 - 46 - 332 - 64 - 246 - 239 - 154 - 100 - 343
+Eugenio Ángela Mendoza: 62. 271 - 249 - 177 - 294 - 283 - 72 - 275
+Perla Ramón Nazario: 85. 83 - 197 - 52 - 259 - 22 - 36 - 194 - 122 - 313 - 156 - 3 - 169
+Aurelio Isabel Munguía Ozuna: 20. 126 - 141 - 59 - 194 - 178 - 230 - 143 - 36 - 299 - 17 - 197 - 19 - 252 - 255 - 66 - 52 - 183
+Nancy Figueroa: 13. 275 - 41 - 199 - 361 - 291 - 270 - 20 - 209 - 314 - 34 - 325 - 46 - 62 - 55 - 0
+Eric Casárez: 23. 304 - 118 - 46 - 354 - 249 - 339 - 252 - 178 - 120 - 341 - 212 - 353 - 141
+Noemí Montes: 22. 339 - 302 - 174 - 48 - 285 - 165 - 340 - 172 - 43 - 361 - 154
+Carmen Blanca Viera Bañuelos: 68. 26 - 249 - 267 - 131 - 5 - 43 - 283 - 251 - 247 - 364 - 316 - 54 - 230 - 156 - 320
+Amelia Débora Colunga: 58. 304 - 325 - 291 - 365 - 9 - 150 - 319 - 275 - 56 - 55 - 280 - 136 - 62
+Norma Elvira Rosario: 66. 22 - 281 - 275 - 56 - 146 - 344 - 273 - 283 - 314 - 101 - 239 - 55
+Esparta Alonzo Nieto: 74. 65 - 36 - 190 - 43 - 129 - 79 - 289 - 294 - 96 - 53 - 127 - 356 - 275
+Dr. Victoria Velásquez: 87. 247 - 46 - 0 - 316 - 287 - 178
+Espartaco Nava: 60. 111 - 27 - 53 - 103 - 308 - 233 - 55 - 117 - 66 - 79 - 152
+Octavio Marisol Garay: 64. 37 - 291 - 264 - 152 - 122 - 270 - 194 - 79
+Mario Ferrer Ortega: 95. 341 - 183 - 357 - 246 - 118 - 44 - 160 - 58 - 83 - 17 - 43 - 224 - 167
+Fidel Alta  Gracia Ibarra Solano: 72. 17 - 348 - 134 - 37 - 20 - 320 - 107 - 339 - 194 - 285 - 287 - 19 - 7 - 282
+Tania Santiago Regalado: 36. 298 - 267 - 5 - 354 - 19 - 169 - 292 - 27 - 289 - 273 - 194 - 54
+Lic. Esparta Salazar: 76. 247 - 348 - 122 - 48 - 17 - 321 - 364 - 39 - 246 - 308 - 291 - 304
+Gilberto Carrión: 50. 277 - 7 - 282 - 26 - 163 - 283 - 354 - 267 - 351 - 240 - 364 - 156 - 83
+*** FIN PASAJEROS DE VUELOS INFECTADOS ***
+*** COMIENZO PERSONAS EN CUARENTENA ***
+Mtro. Isabel Vela: 95. Habitante
+Conchita Ricardo Alvarez: 21. Habitante
+Rocío Mesa López: 69. Habitante
+Ing. Elias Reynoso: 95. Habitante
+Lic. Germán Ureña: 22. Habitante
+Estela Marín Guerra: 23. Habitante
+José Carlos Eric Villalobos: 74. Habitante
+Dr. Lilia Berríos: 91. Habitante
+Ernesto Leonardo Cedillo: 10. Habitante
+Cristobal Tovar Castillo: 75. Habitante
+Bernardo Alejandro Guajardo Lebrón: 73. Habitante
+José Luis Gerónimo Cervántez Ibarra: 67. Habitante
+Dr. Alfredo Cavazos: 60. Habitante
+Elvira Abel Tamayo Arriaga: 88. Habitante
+Beatriz Antonia Montalvo: 88. Habitante
+Cecilia Aida Bernal: 76. Habitante
+Adán Armando de Jesús Burgos: 83. Habitante
+Gerardo Ortiz Cisneros: 70. Habitante
+Leonel Altamirano Puga: 58. Habitante
+David Roberto Canales: 11. Habitante
+Dr. Mónica Beltrán: 73. Habitante
+Lic. Rodolfo Corrales: 78. Habitante
+Roberto Feliciano: 75. Habitante
+Diana Arenas Suárez: 87. Habitante
+Adela Jesús Acevedo: 80. Habitante
+Hugo Eugenio Arce: 79. Habitante
+Ing. Humberto Bravo: 30. Habitante
+Ing. Marisela Ledesma: 65. Habitante
+Ofelia Niño: 62. Habitante
+Juana Alva Carreón: 24. Habitante
+Hugo Montemayor Bermúdez: 28. Habitante
+María del Carmen Timoteo Blanco: 43. Habitante
+Sr(a). Sessa Calvillo: 69. Habitante
+Mtro. Silvano Tirado: 17. Habitante
+Ing. Eric Portillo: 94. Habitante
+Ing. Amanda Jiménez: 49. Habitante
+Yeni Leticia Salinas Peralta: 67. Habitante
+Sr(a). Bianca Altamirano: 91. Habitante
+Berta Brito Guillen: 75. Habitante
+Cristobal Juan Carlos Magaña de la O: 72. Habitante
+Gabino Peña: 85. Habitante
+Jacinto Olivo Alvarado: 89. Habitante
+María del Carmen Niño: 74. Habitante
+Sr(a). Maximiliano Rivero: 29. Habitante
+José Carlos Raúl Salgado Batista: 76. Habitante
+Dr. Alma Navarro: 78. Habitante
+Helena Reséndez Dávila: 81. Habitante
+Jos Bueno: 90. Habitante
+Estela Guzmán Pedraza: 69. Habitante
+Sr(a). Bianca Curiel: 20. Habitante
+Emiliano Diana Saldaña: 59. Habitante
+Caridad Camarillo Guardado: 75. Habitante
+Oswaldo Caridad Quintero del Río: 79. Habitante
+Santiago Piña Arguello: 43. Habitante
+Vanesa David Trejo Calvillo: 69. Habitante
+Benito Parra: 18. Habitante
+Rodrigo Raquel Alvarado: 48. Pasajero
+Salvador Raquel Corral Canales: 59. Pasajero
+Carlota María Teresa Posada Salinas: 69. Pasajero
+Daniela Calderón: 95. Pasajero
+Armando Nelly Correa Carrión: 70. Pasajero
+Eugenia Báez: 58. Pasajero
+Jos Amelia Aponte: 59. Pasajero
+Ilse Wendolin Heredia: 85. Pasajero
+Rosa Gloria Santiago Zúñiga: 79. Pasajero
+Caridad Jesús Escobar: 75. Pasajero
+Clara Salgado: 41. Pasajero
+Rosa Mauricio Sanches Miranda: 54. Pasajero
+Susana Tomás Urrutia Arroyo: 45. Pasajero
+Sr(a). Susana Nieves: 87. Pasajero
+Dr. Zacarías Bueno: 45. Pasajero
+Daniela Ruiz Zelaya: 13. Pasajero
+Raquel Arguello: 82. Pasajero
+Mtro. Perla Longoria: 28. Pasajero
+Augusto Barela: 26. Pasajero
+Abel Valadez: 82. Pasajero
+Pilar Gil: 84. Pasajero
+Rufino Nancy Domínguez: 61. Pasajero
+Óliver Avilés: 84. Pasajero
+Lorena Gabriela Valle: 25. Pasajero
+Rocío Bravo: 33. Pasajero
+Horacio Sisneros Villalobos: 15. Pasajero
+Amelia Correa: 86. Pasajero
+Dr. María Eugenia Gollum: 75. Pasajero
+Lic. Raquel Merino: 11. Pasajero
+Alvaro Nancy Apodaca Carrillo: 58. Pasajero
+Lorenzo Leticia Laureano: 64. Pasajero
+Alfonso Carrión Cantú: 93. Pasajero
+Clemente Orta: 93. Pasajero
+Gabriela Magdalena Reynoso Montez: 77. Pasajero
+Ing. Laura Esquibel: 16. Pasajero
+Juan Tania Jiménez Olivares: 79. Pasajero
+Violeta Pedro Rojo: 77. Pasajero
+Aldo Elsa Laboy: 64. Pasajero
+Francisco Acuña: 41. Pasajero
+José Eduardo Bonilla: 77. Pasajero
+Estefanía Débora Mora Tórrez: 36. Pasajero
+Guillermina Frida Olvera: 59. Pasajero
+Sessa Escobar Garibay: 85. Pasajero
+David Rentería: 65. Pasajero
+Mauro Rosado Montes: 34. Pasajero
+Patricia Trujillo Rodríguez: 38. Pasajero
+Luz Nayeli Fernández Valdés: 30. Pasajero
+Dr. Bernardo Polanco: 62. Pasajero
+Gloria Zaragoza Badillo: 38. Pasajero
+Mónica Isaac Luevano Guerra: 28. Pasajero
+Linda Jerónimo Loera: 35. Pasajero
+Aurora Daniel Lugo Armendáriz: 88. Pasajero
+Mtro. Isaac Rascón: 76. Pasajero
+Barbara Guzmán Montoya: 90. Pasajero
+Pamela Bueno Chapa: 17. Pasajero
+Ing. Abel Galván: 79. Pasajero
+Dr. Maximiliano Ortiz: 71. Pasajero
+Abel Zeferino Munguía: 26. Pasajero
+Sr(a). Anel Baeza: 59. Pasajero
+Yuridia Irma Velasco Villagómez: 10. Pasajero
+Guillermo Venegas Puga: 45. Pasajero
+Esperanza Arevalo: 74. Pasajero
+Oswaldo Jerónimo Beltrán Roque: 89. Pasajero
+Dr. Alejandro Trejo: 49. Pasajero
+Dr. Ramiro Yáñez: 69. Pasajero
+Bernabé Carrasco Padrón: 79. Pasajero
+Esparta Germán Mata: 11. Pasajero
+Araceli María del Carmen Maestas Suárez: 62. Pasajero
+Mtro. Guillermo Ruelas: 62. Pasajero
+Dr. Úrsula Serrato: 81. Pasajero
+Estefanía Ramírez Carrera: 47. Pasajero
+Noemí Marín Merino: 58. Pasajero
+Olga Elisa Altamirano: 34. Pasajero
+Alberto Ordóñez León: 41. Pasajero
+Eugenio Ángela Mendoza: 62. Pasajero
+Perla Ramón Nazario: 85. Pasajero
+Aurelio Isabel Munguía Ozuna: 20. Pasajero
+Nancy Figueroa: 13. Pasajero
+Eric Casárez: 23. Pasajero
+Noemí Montes: 22. Pasajero
+Carmen Blanca Viera Bañuelos: 68. Pasajero
+Amelia Débora Colunga: 58. Pasajero
+Norma Elvira Rosario: 66. Pasajero
+Esparta Alonzo Nieto: 74. Pasajero
+Dr. Victoria Velásquez: 87. Pasajero
+Espartaco Nava: 60. Pasajero
+Octavio Marisol Garay: 64. Pasajero
+Mario Ferrer Ortega: 95. Pasajero
+Fidel Alta  Gracia Ibarra Solano: 72. Pasajero
+Tania Santiago Regalado: 36. Pasajero
+Lic. Esparta Salazar: 76. Pasajero
+Gilberto Carrión: 50. Pasajero
+*** FIN PERSONAS EN CUARENTENA ***
+*** COMIENZO PASAJEROS DE PAISES INFECTADOS ***
+Rodrigo Raquel Alvarado: 48. Niger - Nigeria - Vanuatu - Madagascar - Switzerland - Luxembourg - Afghanistan - Czechia - Malaysia - Brazil - Saint Martin (French part) - Turks and Caicos Islands
+Salvador Raquel Corral Canales: 59. Brazil - Bhutan - Korea Democratic People's Republic of - Russian Federation - Greece - Panama - Afghanistan - Suriname - Comoros - Kenya - Togo - Kazakhstan - Malaysia - Pakistan - Niue - Madagascar
+Carlota María Teresa Posada Salinas: 69. North Macedonia - Switzerland - Luxembourg - Niue - South Georgia and the South Sandwich Islands - Bhutan - Togo - Madagascar - Vanuatu - San Marino - United Kingdom - Turks and Caicos Islands - Kazakhstan - Andorra - Korea Democratic People's Republic of - Kenya - Nigeria - Nauru
+Daniela Calderón: 95. United Kingdom - Turks and Caicos Islands - Niger - Afghanistan - South Georgia and the South Sandwich Islands - Luxembourg - Nigeria - Brazil - Kuwait - Czechia
+Armando Nelly Correa Carrión: 70. Nigeria - North Macedonia - Nauru - United Kingdom - Kenya - Suriname - Saint Martin (French part) - Niger - Lao People's Democratic Republic - South Georgia and the South Sandwich Islands - Moldova Republic of - Czechia - Jordan
+Eugenia Báez: 58. Brazil - Korea Democratic People's Republic of - Saint Martin (French part) - Russian Federation - Moldova Republic of - Vanuatu - North Macedonia - Burkina Faso - Malaysia - Slovakia
+Jos Amelia Aponte: 59. Korea Republic of - San Marino - Andorra - Liechtenstein - South Georgia and the South Sandwich Islands - Lao People's Democratic Republic - Niue - Madagascar - Niger - Kenya - Moldova Republic of - Saint Martin (French part)
+Ilse Wendolin Heredia: 85. Liechtenstein - Greece - Madagascar - United Kingdom - South Georgia and the South Sandwich Islands - Holy See (Vatican City State) - Malaysia - Korea Republic of - Niue - Nigeria - Monaco - Slovakia
+Rosa Gloria Santiago Zúñiga: 79. Madagascar - Holy See (Vatican City State) - Niger - Liechtenstein - Lao People's Democratic Republic - Korea Republic of - Kuwait - Bulgaria - Kenya - Russian Federation - Switzerland - Turks and Caicos Islands - Kazakhstan
+Caridad Jesús Escobar: 75. Tokelau - Afghanistan - Monaco - Andorra - Niger - Niue - Pakistan - Greece - Switzerland - Czechia - Kenya
+Clara Salgado: 41. Pakistan - Saint Martin (French part) - North Macedonia - Switzerland - Nigeria - Madagascar - Jordan - Malaysia - San Marino - Monaco - Russian Federation - Congo - Moldova Republic of - Comoros
+Rosa Mauricio Sanches Miranda: 54. Afghanistan - Jordan - San Marino - Madagascar - Kazakhstan - Nauru - Niue - Monaco - Russian Federation - Switzerland - Liechtenstein - Holy See (Vatican City State) - Vanuatu - Andorra - Greece
+Susana Tomás Urrutia Arroyo: 45. Togo - Russian Federation - Kuwait - Suriname - Bhutan - San Marino - United Kingdom - Nauru - Vanuatu - Czechia - Malaysia - Bulgaria
+Sr(a). Susana Nieves: 87. Niue - Holy See (Vatican City State) - Togo - Malaysia - Russian Federation - Korea Republic of - Lao People's Democratic Republic - Slovakia - Bhutan - Suriname - Nigeria - South Georgia and the South Sandwich Islands
+Dr. Zacarías Bueno: 45. Luxembourg - South Georgia and the South Sandwich Islands - Moldova Republic of - Bhutan - Panama - Kuwait - Suriname - North Macedonia - Slovakia - Nauru
+Daniela Ruiz Zelaya: 13. Madagascar - Togo - Congo - Switzerland - Luxembourg - Kazakhstan - Monaco - Tokelau - Burkina Faso - Saint Martin (French part) - United Kingdom - Comoros - Suriname - Brazil - South Georgia and the South Sandwich Islands - Malaysia
+Raquel Arguello: 82. Andorra - Liechtenstein - Togo - Bulgaria - Vanuatu - Kuwait - Tokelau - Luxembourg - Monaco - Afghanistan - Lao People's Democratic Republic - United Kingdom - Niger
+Mtro. Perla Longoria: 28. Kazakhstan - Kuwait - Kenya - North Macedonia - Czechia - Suriname - Afghanistan - Panama - Monaco - Niger - Greece - Tokelau - Korea Republic of - Congo - South Georgia and the South Sandwich Islands
+Augusto Barela: 26. Suriname - Brazil - Monaco - United Kingdom - Kazakhstan - Lao People's Democratic Republic - Greece - Bulgaria - Kenya - Kuwait - Nauru - Panama - Andorra - Malaysia
+Abel Valadez: 82. Tokelau - Suriname - Nauru - San Marino - Holy See (Vatican City State) - Russian Federation - Monaco - Bhutan - Congo - Bulgaria - Brazil - Moldova Republic of - Czechia
+Pilar Gil: 84. Brazil - Bhutan - Lao People's Democratic Republic - San Marino - Turks and Caicos Islands - North Macedonia - Saint Martin (French part) - Greece - Suriname
+Rufino Nancy Domínguez: 61. Pakistan - Malaysia - Russian Federation - Andorra - Tokelau - Nigeria - Saint Martin (French part) - Suriname - Kenya - Luxembourg - Congo - Burkina Faso
+Óliver Avilés: 84. Malaysia - Moldova Republic of - Togo - Nauru - Andorra - Slovakia - United Kingdom - Suriname - Korea Democratic People's Republic of - Niger - Nigeria - Brazil
+Lorena Gabriela Valle: 25. Greece - Panama - Kazakhstan - Slovakia - Saint Martin (French part) - Lao People's Democratic Republic - Andorra - Moldova Republic of - Nigeria - Malaysia - South Georgia and the South Sandwich Islands - Niue - Niger - Switzerland - Nauru - Madagascar
+Rocío Bravo: 33. San Marino - Russian Federation - Togo - Suriname - Moldova Republic of - Andorra - Switzerland - Monaco - Kazakhstan - Turks and Caicos Islands - Czechia - Malaysia - Nigeria
+Horacio Sisneros Villalobos: 15. Turks and Caicos Islands - San Marino - United Kingdom - Luxembourg - Saint Martin (French part) - Korea Democratic People's Republic of - Liechtenstein - Kazakhstan - Afghanistan - Niger - Burkina Faso - Lao People's Democratic Republic - Nauru - Brazil
+Amelia Correa: 86. Bulgaria - Luxembourg - San Marino - Monaco - Nigeria - Kuwait - Togo - United Kingdom - Holy See (Vatican City State)
+Dr. María Eugenia Gollum: 75. Turks and Caicos Islands - Congo - Suriname - Saint Martin (French part) - Bhutan - Monaco - Luxembourg - Pakistan - San Marino - Nigeria - Nauru
+Lic. Raquel Merino: 11. Afghanistan - Korea Republic of - Monaco - Bhutan - Moldova Republic of - Comoros - Niger - Malaysia - Korea Democratic People's Republic of - Saint Martin (French part) - North Macedonia - Turks and Caicos Islands
+Alvaro Nancy Apodaca Carrillo: 58. Korea Republic of - Comoros - Lao People's Democratic Republic - Bulgaria - Slovakia - Bhutan - Switzerland - San Marino - Suriname - Kuwait - Luxembourg - Togo - Russian Federation - Madagascar
+Lorenzo Leticia Laureano: 64. Lao People's Democratic Republic - Luxembourg - Czechia - Liechtenstein - Nauru - Vanuatu - Andorra - Holy See (Vatican City State) - South Georgia and the South Sandwich Islands - Malaysia - Pakistan
+Alfonso Carrión Cantú: 93. Togo - Korea Republic of - Luxembourg - Greece - Vanuatu - Kuwait - Czechia - Lao People's Democratic Republic - Niue - Kenya - Holy See (Vatican City State) - Niger - Saint Martin (French part) - Switzerland
+Clemente Orta: 93. Russian Federation - San Marino - Liechtenstein - Lao People's Democratic Republic - Niue - Pakistan - Jordan - Comoros - Madagascar - Holy See (Vatican City State) - Burkina Faso
+Gabriela Magdalena Reynoso Montez: 77. San Marino - Pakistan - South Georgia and the South Sandwich Islands - Malaysia - Kenya - Lao People's Democratic Republic - Kuwait - Bhutan - Andorra - Greece - Niger - Korea Republic of
+Ing. Laura Esquibel: 16. Togo - Suriname - Brazil - Nigeria - Switzerland - Andorra - South Georgia and the South Sandwich Islands - Czechia - United Kingdom - Comoros - Kuwait - Turks and Caicos Islands
+Juan Tania Jiménez Olivares: 79. Suriname - Kuwait - Vanuatu - Burkina Faso - Monaco - Lao People's Democratic Republic - Switzerland - Liechtenstein - Malaysia - Turks and Caicos Islands - Holy See (Vatican City State)
+Violeta Pedro Rojo: 77. Burkina Faso - Nauru - Kazakhstan - Brazil - Slovakia - Tokelau - Jordan - San Marino - Madagascar - Monaco - Saint Martin (French part) - Bhutan - Russian Federation - Andorra - Czechia - Liechtenstein - Malaysia
+Aldo Elsa Laboy: 64. Congo - Kuwait - Greece - South Georgia and the South Sandwich Islands - United Kingdom - Niger - Lao People's Democratic Republic - Malaysia - Slovakia - Kenya - Jordan - Korea Democratic People's Republic of - Turks and Caicos Islands
+Francisco Acuña: 41. Madagascar - Bulgaria - Niue - Malaysia - Togo - Panama - South Georgia and the South Sandwich Islands - Turks and Caicos Islands
+José Eduardo Bonilla: 77. Andorra - Nauru - Malaysia - Comoros - Panama - Monaco - Luxembourg - Kazakhstan - Korea Republic of - North Macedonia - Holy See (Vatican City State) - Saint Martin (French part)
+Estefanía Débora Mora Tórrez: 36. Holy See (Vatican City State) - Liechtenstein - Tokelau - Greece - Andorra - Luxembourg - Congo - San Marino - Niger - Switzerland - Pakistan - Burkina Faso
+Guillermina Frida Olvera: 59. Bulgaria - Moldova Republic of - Suriname - Tokelau - United Kingdom - Afghanistan - Congo - Brazil - Niue - Burkina Faso - Slovakia - Monaco - Liechtenstein - Bhutan - Jordan - Togo - Luxembourg
+Sessa Escobar Garibay: 85. Kazakhstan - Togo - Monaco - Bulgaria - Luxembourg - North Macedonia - Andorra - Turks and Caicos Islands - Greece - Afghanistan - Slovakia - Russian Federation - San Marino
+David Rentería: 65. Niger - Kuwait - Pakistan - Monaco - Turks and Caicos Islands - Moldova Republic of - Nauru - Kenya - Niue - Togo - Afghanistan - Bulgaria - Nigeria - Korea Democratic People's Republic of
+Mauro Rosado Montes: 34. Kazakhstan - Brazil - Czechia - Liechtenstein - Afghanistan - Jordan - Nigeria - Madagascar - Luxembourg - Bulgaria - Congo - Russian Federation - Nauru - Togo
+Patricia Trujillo Rodríguez: 38. Kazakhstan - Suriname - Madagascar - Pakistan - Monaco - Liechtenstein - Panama - Turks and Caicos Islands - Niue - Kuwait - Malaysia - Lao People's Democratic Republic - Comoros
+Luz Nayeli Fernández Valdés: 30. Jordan - Switzerland - Russian Federation - Niue - Czechia - Greece - Korea Democratic People's Republic of - Nigeria
+Dr. Bernardo Polanco: 62. San Marino - Niger - Korea Democratic People's Republic of - Afghanistan - Congo - Monaco - Malaysia - Andorra - Bulgaria - Kazakhstan
+Gloria Zaragoza Badillo: 38. Jordan - Turks and Caicos Islands - Lao People's Democratic Republic - Korea Republic of - Togo - Suriname - Malaysia - Niger - Vanuatu - Afghanistan - Liechtenstein - Slovakia - Holy See (Vatican City State)
+Mónica Isaac Luevano Guerra: 28. Niger - Greece - Korea Democratic People's Republic of - South Georgia and the South Sandwich Islands - Nigeria - Kazakhstan - Moldova Republic of - Madagascar - Comoros - Andorra - Monaco - Tokelau - Jordan
+Linda Jerónimo Loera: 35. Brazil - Moldova Republic of - Comoros - United Kingdom - Bhutan - North Macedonia - Monaco - Malaysia - Kuwait - Panama - Switzerland - Greece - South Georgia and the South Sandwich Islands - Czechia - Burkina Faso - Luxembourg - Lao People's Democratic Republic
+Aurora Daniel Lugo Armendáriz: 88. Turks and Caicos Islands - Congo - Bulgaria - Kazakhstan - United Kingdom - Czechia - Kenya - Holy See (Vatican City State) - Burkina Faso - Niger - Pakistan
+Mtro. Isaac Rascón: 76. Moldova Republic of - Andorra - South Georgia and the South Sandwich Islands - Kuwait - Panama - Liechtenstein - Kenya - San Marino - Saint Martin (French part) - Luxembourg - Afghanistan - Slovakia - Czechia - Monaco - Pakistan - Malaysia - Korea Democratic People's Republic of
+Barbara Guzmán Montoya: 90. Comoros - Korea Republic of - Bhutan - Brazil - Nigeria - Burkina Faso - Holy See (Vatican City State) - Korea Democratic People's Republic of - Congo - Togo - Jordan - Saint Martin (French part)
+Pamela Bueno Chapa: 17. Monaco - Panama - San Marino - Malaysia - Turks and Caicos Islands - Nigeria - Czechia - Afghanistan - North Macedonia - Greece - Bhutan - Tokelau
+Ing. Abel Galván: 79. Panama - Holy See (Vatican City State) - Jordan - Madagascar - Nauru - Brazil - San Marino - Bulgaria - Andorra - Niger - Suriname - Czechia
+Dr. Maximiliano Ortiz: 71. Andorra - Russian Federation - Niue - Malaysia - Jordan - Holy See (Vatican City State) - Panama - Kazakhstan - Kenya - Niger - Pakistan - Lao People's Democratic Republic - Liechtenstein - Korea Republic of - Tokelau
+Abel Zeferino Munguía: 26. Pakistan - North Macedonia - Switzerland - Madagascar - Nigeria - Jordan - Czechia - Greece - Holy See (Vatican City State) - Russian Federation - Korea Democratic People's Republic of - Kazakhstan - Turks and Caicos Islands - Nauru - Monaco - Suriname
+Sr(a). Anel Baeza: 59. Suriname - Burkina Faso - Turks and Caicos Islands - Bhutan - Panama - Monaco - United Kingdom - Niger - Afghanistan
+Yuridia Irma Velasco Villagómez: 10. Korea Republic of - North Macedonia - Pakistan - San Marino - Burkina Faso - Bhutan - Brazil - Jordan - Bulgaria - Niue - Suriname - Luxembourg
+Guillermo Venegas Puga: 45. United Kingdom - Suriname - Malaysia - Vanuatu - Liechtenstein - Brazil - San Marino - Korea Democratic People's Republic of
+Esperanza Arevalo: 74. Greece - Nigeria - Afghanistan - Lao People's Democratic Republic - Luxembourg - Niue - Madagascar - Tokelau - Panama - Kazakhstan - Bhutan - Slovakia
+Oswaldo Jerónimo Beltrán Roque: 89. South Georgia and the South Sandwich Islands - Holy See (Vatican City State) - Brazil - Kuwait - United Kingdom - Vanuatu - Pakistan - Jordan - North Macedonia
+Dr. Alejandro Trejo: 49. Malaysia - Nauru - Pakistan - Vanuatu - Holy See (Vatican City State) - Korea Republic of - Moldova Republic of - Liechtenstein - Suriname - Madagascar - Bhutan
+Dr. Ramiro Yáñez: 69. Bhutan - Tokelau - Moldova Republic of - Suriname - Switzerland - Korea Democratic People's Republic of - Turks and Caicos Islands - Afghanistan - Nigeria - North Macedonia - Bulgaria
+Bernabé Carrasco Padrón: 79. Vanuatu - Panama - Lao People's Democratic Republic - Pakistan - Moldova Republic of - Congo - Nauru - Greece - Luxembourg - Nigeria - Suriname - Niger - Kazakhstan - Niue - Andorra - Kenya - Brazil
+Esparta Germán Mata: 11. Congo - North Macedonia - Kazakhstan - Turks and Caicos Islands - Burkina Faso - Moldova Republic of - Luxembourg - Nauru - Jordan - Vanuatu - South Georgia and the South Sandwich Islands - Niue - Saint Martin (French part) - Slovakia
+Araceli María del Carmen Maestas Suárez: 62. Czechia - Afghanistan - North Macedonia - Bulgaria - Slovakia - Monaco - Panama - Pakistan - Saint Martin (French part) - Lao People's Democratic Republic - Nauru - Korea Democratic People's Republic of - Malaysia - Luxembourg - Suriname
+Mtro. Guillermo Ruelas: 62. Niger - Korea Republic of - Russian Federation - Brazil - Togo - Malaysia - Kenya - Monaco - San Marino - Czechia - Nauru
+Dr. Úrsula Serrato: 81. Malaysia - Russian Federation - Holy See (Vatican City State) - Jordan - Nigeria - Korea Democratic People's Republic of - Nauru - Saint Martin (French part) - United Kingdom - Brazil - Bhutan - Luxembourg
+Estefanía Ramírez Carrera: 47. Togo - Russian Federation - Suriname - Kazakhstan - Tokelau - Korea Republic of - Jordan - Andorra - Saint Martin (French part) - Turks and Caicos Islands - Congo - Vanuatu - Lao People's Democratic Republic
+Noemí Marín Merino: 58. Malaysia - Slovakia - Korea Republic of - Switzerland - Bulgaria - Monaco - Andorra
+Olga Elisa Altamirano: 34. Vanuatu - Slovakia - Kazakhstan - Andorra - Turks and Caicos Islands - Jordan - South Georgia and the South Sandwich Islands - Nigeria - Russian Federation - Holy See (Vatican City State) - Liechtenstein - Bulgaria - Suriname - Greece
+Alberto Ordóñez León: 41. Turks and Caicos Islands - Lao People's Democratic Republic - Kazakhstan - Madagascar - Slovakia - Pakistan - Suriname - Saint Martin (French part) - Monaco - Czechia - Andorra - Greece - San Marino - Malaysia
+Eugenio Ángela Mendoza: 62. Niue - Holy See (Vatican City State) - Kenya - Kuwait - Liechtenstein - Greece - Congo - Nigeria - Bhutan - Switzerland - Niger - Panama - Comoros - Pakistan - Saint Martin (French part) - Nauru
+Perla Ramón Nazario: 85. Congo - Afghanistan - Brazil - Vanuatu - Jordan - Malaysia - North Macedonia - Kuwait - Holy See (Vatican City State) - Burkina Faso - Niue - Comoros - Turks and Caicos Islands - Russian Federation - Czechia - Korea Democratic People's Republic of - Suriname - Tokelau - Kenya
+Aurelio Isabel Munguía Ozuna: 20. Greece - Niger - Vanuatu - Russian Federation - Suriname - Madagascar - Congo - Panama - Togo - Bulgaria
+Nancy Figueroa: 13. Niue - Slovakia - North Macedonia - Vanuatu - Nigeria - Andorra - Pakistan - Moldova Republic of - Jordan - Bhutan - Brazil - Tokelau - South Georgia and the South Sandwich Islands - Korea Democratic People's Republic of
+Eric Casárez: 23. Afghanistan - Togo - Lao People's Democratic Republic - Kuwait - Congo - Suriname - Luxembourg - Greece - Tokelau - Nauru - Korea Republic of
+Noemí Montes: 22. Niger - Vanuatu - Liechtenstein - Russian Federation - Suriname - Congo - Luxembourg - Slovakia - Pakistan - Malaysia - Comoros
+Carmen Blanca Viera Bañuelos: 68. United Kingdom - Saint Martin (French part) - Afghanistan - Slovakia - Kenya - Kazakhstan - Congo - Jordan - Niue - Comoros - Nigeria - Monaco - Holy See (Vatican City State) - Lao People's Democratic Republic
+Amelia Débora Colunga: 58. Tokelau - Vanuatu - Niue - Liechtenstein - Lao People's Democratic Republic - Czechia - Suriname - Korea Democratic People's Republic of - San Marino - Nauru - Holy See (Vatican City State) - Brazil - Comoros - Bulgaria - Korea Republic of - Greece - Nigeria - Madagascar - South Georgia and the South Sandwich Islands
+Norma Elvira Rosario: 66. Congo - Niger - Madagascar - Switzerland - Korea Republic of - Bhutan - Tokelau - Moldova Republic of - Kuwait - Pakistan - United Kingdom - Nigeria - San Marino - Turks and Caicos Islands
+Esparta Alonzo Nieto: 74. San Marino - Brazil - Russian Federation - Korea Democratic People's Republic of - Czechia - Holy See (Vatican City State) - Togo - Panama - Nigeria - Pakistan - Liechtenstein - Nauru - Greece - Niger - Bhutan - Suriname
+Dr. Victoria Velásquez: 87. Comoros - Togo - Kuwait - Czechia - Bulgaria - Congo - United Kingdom - Turks and Caicos Islands - Korea Republic of - Brazil - Nigeria - Jordan - Tokelau - Saint Martin (French part) - South Georgia and the South Sandwich Islands - Switzerland - Malaysia
+Espartaco Nava: 60. Kuwait - Korea Republic of - Liechtenstein - Panama - Afghanistan - Turks and Caicos Islands - Bulgaria - United Kingdom - Pakistan - Togo - Congo - Tokelau - Nigeria
+Octavio Marisol Garay: 64. Comoros - Liechtenstein - Malaysia - Panama - Andorra - Niue
+Mario Ferrer Ortega: 95. Monaco - Korea Democratic People's Republic of - Brazil - Switzerland - Congo - Nauru - Jordan - Malaysia - Holy See (Vatican City State) - Moldova Republic of
+Fidel Alta  Gracia Ibarra Solano: 72. Nigeria - Russian Federation - Liechtenstein - Afghanistan - Monaco - Panama - San Marino - Pakistan - Korea Democratic People's Republic of - Bulgaria - Congo - Kazakhstan - Korea Republic of
+Tania Santiago Regalado: 36. Liechtenstein - Slovakia - Holy See (Vatican City State) - Brazil - Tokelau - Panama - Vanuatu - Korea Democratic People's Republic of - Jordan - Nauru - Bulgaria - San Marino
+Lic. Esparta Salazar: 76. Congo - Andorra - Kenya - Korea Republic of - North Macedonia - Vanuatu - Malaysia - Greece - Luxembourg - Bhutan - Monaco - Niue - Panama - Slovakia
+Gilberto Carrión: 50. Brazil - Niger - Nigeria - Panama - Jordan - San Marino - Congo - Nauru - North Macedonia - Korea Republic of - Burkina Faso - South Georgia and the South Sandwich Islands - Turks and Caicos Islands - Saint Martin (French part) - Moldova Republic of
+*** FIN PASAJEROS DE PAISES INFECTADOS ***

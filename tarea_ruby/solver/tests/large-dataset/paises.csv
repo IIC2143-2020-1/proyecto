@@ -1,0 +1,101 @@
+id,nombre,hay_infectados
+0,Russian Federation,true
+1,Austria,false
+2,Christmas Island,false
+3,Serbia,false
+4,Czechia,true
+5,Moldova Republic of,true
+6,New Caledonia,false
+7,Norway,false
+8,Indonesia,false
+9,Pakistan,true
+10,French Polynesia,false
+11,Cameroon,false
+12,Libya,false
+13,United Kingdom,true
+14,Kyrgyzstan,false
+15,Liechtenstein,true
+16,Tokelau,true
+17,Sri Lanka,false
+18,Botswana,false
+19,Suriname,true
+20,Venezuela Bolivarian Republic of,false
+21,Bulgaria,true
+22,Ukraine,false
+23,Saint Martin (French part),true
+24,Saint Vincent and the Grenadines,false
+25,Niue,true
+26,Croatia,false
+27,Turkmenistan,false
+28,Lao People's Democratic Republic,true
+29,Brunei Darussalam,false
+30,Jordan,true
+31,Kenya,true
+32,Nigeria,true
+33,Hong Kong,false
+34,Togo,true
+35,Marshall Islands,false
+36,Tuvalu,false
+37,Korea Democratic People's Republic of,true
+38,Greece,true
+39,Congo,true
+40,Afghanistan,true
+41,Monaco,true
+42,Comoros,true
+43,Haiti,false
+44,Slovakia,true
+45,Panama,true
+46,Sudan,false
+47,Andorra,true
+48,Canada,false
+49,Micronesia Federated States of,false
+50,Aruba,false
+51,Belgium,false
+52,Cayman Islands,false
+53,Svalbard and Jan Mayen,false
+54,Chad,false
+55,Cambodia,false
+56,Gibraltar,false
+57,Syrian Arab Republic,false
+58,Tonga,false
+59,Luxembourg,true
+60,Georgia,false
+61,Brazil,true
+62,Heard Island and McDonald Islands,false
+63,Bhutan,true
+64,Saint Helena Ascension and Tristan da Cunha,false
+65,Benin,false
+66,Switzerland,true
+67,French Guiana,false
+68,Azerbaijan,false
+69,San Marino,true
+70,Madagascar,true
+71,Turks and Caicos Islands,true
+72,Uganda,false
+73,Central African Republic,false
+74,Faroe Islands,false
+75,Vanuatu,true
+76,Antigua and Barbuda,false
+77,Nauru,true
+78,Netherlands,false
+79,Trinidad and Tobago,false
+80,Kazakhstan,true
+81,North Macedonia,true
+82,Portugal,false
+83,Burkina Faso,true
+84,Honduras,false
+85,South Georgia and the South Sandwich Islands,true
+86,Malta,false
+87,Korea Republic of,true
+88,Montserrat,false
+89,Malaysia,true
+90,Kuwait,true
+91,China,false
+92,Holy See (Vatican City State),true
+93,Saudi Arabia,false
+94,Niger,true
+95,Belize,false
+96,Rwanda,false
+97,Taiwan Province of China,false
+98,Timor-Leste,false
+99,Egypt,false

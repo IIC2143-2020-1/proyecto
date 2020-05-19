@@ -1,0 +1,75 @@
+*** COMIENZO PERSONAS EN EDAD DE RIESGO ***
+Sr(a). Leonel Canales: 80. Habitante
+Antonia Tamayo: 95. Habitante
+Javier Barbara González Escamilla: 74. Habitante
+Ivonne Mesa Velásquez: 94. Habitante
+Bruno Juan Ybarra Zaragoza: 93. Habitante
+Abelardo Juan Delgadillo: 95. Pasajero
+Dr. Abigail Blanco: 95. Pasajero
+Marisol Mateo Marroquín Hinojosa: 81. Pasajero
+Maximiliano Carmona: 85. Pasajero
+*** FIN PERSONAS EN EDAD DE RIESGO ***
+*** COMIENZO PASAJEROS EN CUARENTENA ***
+Dr. Josefina Granado: 11. Namibia - France - Grenada. 2
+Felix Violeta Alba Iglesias: 39. Turks and Caicos Islands - Northern Mariana Islands. 2
+Abelardo Juan Delgadillo: 95. Grenada - Haiti. 3
+Dr. Abigail Blanco: 95. Turks and Caicos Islands - France. 2
+Dr. Hugo Quintanilla: 57. Haiti - Gibraltar. 3
+Marisol Mateo Marroquín Hinojosa: 81. Grenada - Haiti - Portugal. 3
+Mauro Aguayo: 55. Gibraltar - Iran Islamic Republic of. 3
+Ruby Caridad Zambrano Ávalos: 40. Portugal - Turks and Caicos Islands. 3
+Luis Manuel Eugenio Vela Fonseca: 10. France - Iran Islamic Republic of. 3
+Maximiliano Carmona: 85. Turks and Caicos Islands - Gibraltar. 3
+Renato Dulce Zamudio: 55. Gibraltar - Portugal - Haiti. 2
+*** FIN PASAJEROS EN CUARENTENA ***
+*** COMIENZO HABITANTES EN CUARENTENA ***
+Sr(a). Leonel Canales: 80. Sector 4
+Antonia Tamayo: 95. Sector 3
+Javier Barbara González Escamilla: 74. Sector 8
+Ivonne Mesa Velásquez: 94. Sector 12
+Bruno Juan Ybarra Zaragoza: 93. Sector 19
+*** FIN HABITANTES EN CUARENTENA ***
+*** COMIENZO PASAJEROS DE VUELOS INFECTADOS ***
+Dr. Josefina Granado: 11. 4
+Felix Violeta Alba Iglesias: 39. 18
+Abelardo Juan Delgadillo: 95. 17
+Dr. Abigail Blanco: 95. 0 - 1
+Dr. Hugo Quintanilla: 57. 15 - 17
+Marisol Mateo Marroquín Hinojosa: 81. 28 - 24 - 25
+Mauro Aguayo: 55. 17
+Ruby Caridad Zambrano Ávalos: 40. 4
+Luis Manuel Eugenio Vela Fonseca: 10. 38 - 7
+Maximiliano Carmona: 85. 7
+Renato Dulce Zamudio: 55. 14
+*** FIN PASAJEROS DE VUELOS INFECTADOS ***
+*** COMIENZO PERSONAS EN CUARENTENA ***
+Sr(a). Leonel Canales: 80. Habitante
+Antonia Tamayo: 95. Habitante
+Javier Barbara González Escamilla: 74. Habitante
+Ivonne Mesa Velásquez: 94. Habitante
+Bruno Juan Ybarra Zaragoza: 93. Habitante
+Dr. Josefina Granado: 11. Pasajero
+Felix Violeta Alba Iglesias: 39. Pasajero
+Abelardo Juan Delgadillo: 95. Pasajero
+Dr. Abigail Blanco: 95. Pasajero
+Dr. Hugo Quintanilla: 57. Pasajero
+Marisol Mateo Marroquín Hinojosa: 81. Pasajero
+Mauro Aguayo: 55. Pasajero
+Ruby Caridad Zambrano Ávalos: 40. Pasajero
+Luis Manuel Eugenio Vela Fonseca: 10. Pasajero
+Maximiliano Carmona: 85. Pasajero
+Renato Dulce Zamudio: 55. Pasajero
+*** FIN PERSONAS EN CUARENTENA ***
+*** COMIENZO PASAJEROS DE PAISES INFECTADOS ***
+Dr. Josefina Granado: 11. Namibia
+Felix Violeta Alba Iglesias: 39. Turks and Caicos Islands
+Abelardo Juan Delgadillo: 95. Haiti
+Dr. Abigail Blanco: 95. Turks and Caicos Islands
+Dr. Hugo Quintanilla: 57. Haiti
+Marisol Mateo Marroquín Hinojosa: 81. Haiti
+Mauro Aguayo: 55. Iran Islamic Republic of
+Ruby Caridad Zambrano Ávalos: 40. Turks and Caicos Islands
+Luis Manuel Eugenio Vela Fonseca: 10. Iran Islamic Republic of
+Maximiliano Carmona: 85. Turks and Caicos Islands
+Renato Dulce Zamudio: 55. Haiti
+*** FIN PASAJEROS DE PAISES INFECTADOS ***
