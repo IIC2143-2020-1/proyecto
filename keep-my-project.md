@@ -64,7 +64,7 @@ En esta _guía rápida_, aprenderás cómo quedarte con tu proyecto luego del ra
     $ rm -rf grupo0-proyecto
 
     # Clonar el repositorio desde el nuevo remote
-    $ git clone proyecto-software
+    $ git clone https://github.com/daleal/proyecto-software.git
     $ cd proyecto-software
     ```
 
